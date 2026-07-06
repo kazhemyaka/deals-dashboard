@@ -1,0 +1,896 @@
+AQL date,Source,Client CRM,Client country,Number of sales reps,Subscription period,PPC budget USD,Stage,Loss reason description,Closing Date
+"Apr 3, 2024",Demo Request,No CRM,KZ (Kazakhstan),2.0,,0.0,Negotiations,,
+"Apr 3, 2024",Inbound call,Bitrix24,KZ (Kazakhstan),3.0,,0.0,Negotiations,,
+"Apr 3, 2024",Inbound call,No CRM,KZ (Kazakhstan),4.0,,0.0,Negotiations,,
+"Apr 3, 2024",Partner,RealtSoft,UA (Ukraine),10.0,,0-500,Project set up,,
+"Apr 3, 2024",Partner,No CRM,UA (Ukraine),8.0,90.0,0.0,Closed Won,,"Apr 3, 2024"
+"Apr 3, 2024",Demo Request,Bitrix24,UA (Ukraine),20.0,,0-500,Trial,,
+"Apr 3, 2024",Demo Request,U-ON.Travel,KZ (Kazakhstan),2.0,,0-500,Negotiations,,
+"Apr 3, 2024",Registration,Bitrix24,KZ (Kazakhstan),5.0,,0.0,Negotiations,,
+"Apr 3, 2024",Intercom,No CRM,UA (Ukraine),1.0,,0.0,Closed Lost,No responsible of the project at the moment,"Apr 3, 2024"
+"Apr 3, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0.0,Negotiations,,
+"Apr 3, 2024",Partner,AmoCRM,KZ (Kazakhstan),9.0,,0.0,Negotiations,,
+"Apr 3, 2024",Inbound call,Creatio,UA (Ukraine),15.0,,0-500,Negotiations,,
+"Apr 3, 2024",Partner,ZohoCRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Apr 2, 2024",Demo Request,No CRM,UA (Ukraine),3.0,,0.0,Closed Lost,Other,"Apr 2, 2024"
+"Apr 2, 2024",Facebook PPC,No CRM,PL (Poland),3.0,,0-500,Negotiations,,
+"Apr 2, 2024",Demo Request,No CRM,KZ (Kazakhstan),1.0,,0-500,Negotiations,,
+"Apr 2, 2024",Registration,Custom CRM,UA (Ukraine),4.0,,0-500,Negotiations,,
+"Apr 2, 2024",Demo Request,Salesdrive,UA (Ukraine),3.0,,500-1000,Closed Lost,No responsible of the project at the moment,"Apr 2, 2024"
+"Apr 2, 2024",Inbound call,Bitrix24,PL (Poland),3.0,,0.0,Negotiations,,
+"Apr 2, 2024",Partner,No CRM,PL (Poland),2.0,,0.0,Negotiations,,
+"Apr 2, 2024",Inbound call,KeyCRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Apr 2, 2024",Demo Request,No CRM,UA (Ukraine),1.0,,0.0,Negotiations,,
+"Apr 2, 2024",Demo Request,No CRM,IL (Israel),2.0,,0-500,Closed Lost,Implementing CRM,"Apr 2, 2024"
+"Apr 2, 2024",Inbound call,Poster,UA (Ukraine),1.0,,0.0,Negotiations,,
+"Apr 2, 2024",Registration,Salesdrive,UA (Ukraine),2.0,,2000-5000,Negotiations,,
+"Apr 2, 2024",Demo Request,No CRM,UA (Ukraine),30.0,,0.0,Negotiations,,
+"Apr 2, 2024",Intercom,RemOnline,UA (Ukraine),1.0,,500-1000,Negotiations,,
+"Apr 2, 2024",Inbound call,KeyCRM,UA (Ukraine),5.0,,0-500,Project set up,,
+"Apr 2, 2024",Intercom,U-ON.Travel,KZ (Kazakhstan),7.0,,0-500,Negotiations,,
+"Apr 1, 2024",Partner,No CRM,UA (Ukraine),10.0,,0.0,Negotiations,,
+"Apr 1, 2024",Partner,No CRM,UA (Ukraine),3.0,,500-1000,Negotiations,,
+"Apr 1, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Apr 1, 2024",Partner,ZohoCRM,UA (Ukraine),5.0,,0.0,Negotiations,,
+"Apr 1, 2024",Registration,No CRM,FR (France),3.0,,0-500,Negotiations,,
+"Apr 1, 2024",Inbound call,No CRM,UA (Ukraine),7.0,,0.0,Negotiations,,
+"Apr 1, 2024",Partner,Bitrix24,KZ (Kazakhstan),5.0,,500-1000,Negotiations,,
+"Apr 1, 2024",Demo Request,AmoCRM,KZ (Kazakhstan),3.0,,0-500,Negotiations,,
+"Apr 1, 2024",Inbound call,Bitrix24,KZ (Kazakhstan),4.0,,500-1000,Project set up,,
+"Mar 29, 2024",Partner,AmoCRM,KZ (Kazakhstan),3.0,,0-500,Negotiations,,
+"Mar 29, 2024",Partner,No CRM,UA (Ukraine),2.0,,0.0,Negotiations,,
+"Mar 29, 2024",Demo Request,Dr. Eleks,UA (Ukraine),6.0,,0-500,Negotiations,,
+"Mar 29, 2024",Partner,No CRM,UA (Ukraine),2.0,,500-1000,Negotiations,,
+"Mar 28, 2024",Partner,Other,PL (Poland),3.0,,0.0,Negotiations,,
+"Mar 29, 2024",Intercom,Bitrix24,UA (Ukraine),30.0,,0.0,Negotiations,,
+"Mar 29, 2024",Partner,Bitrix24,KZ (Kazakhstan),1.0,,500-1000,Project set up,,
+"Mar 28, 2024",Inbound call,RealtSoft,UA (Ukraine),2.0,,0.0,Trial,,
+"Mar 28, 2024",Partner,No CRM,UA (Ukraine),2.0,,500-1000,Negotiations,,
+"Mar 28, 2024",Inbound call,Firmao,PL (Poland),10.0,,0.0,Negotiations,,
+"Mar 29, 2024",Inbound call,No CRM,UA (Ukraine),9.0,,0.0,Negotiations,,
+"Mar 28, 2024",Registration,No CRM,PL (Poland),4.0,,0.0,Negotiations,,
+"Mar 28, 2024",Intercom,Pipedrive,UA (Ukraine),4.0,,5000-10000,Negotiations,,
+"Mar 28, 2024",Intercom,PERFECTUM,UA (Ukraine),3.0,,0-500,Negotiations,,
+"Mar 28, 2024",Partner,No CRM,KZ (Kazakhstan),1.0,,1000-2000,Negotiations,,
+"Mar 28, 2024",Inbound call,AmoCRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Solving budget issues,"Apr 2, 2024"
+"Mar 28, 2024",Partner,KeyCRM,UA (Ukraine),3.0,,0-500,Closed Lost,Implementing CRM,"Mar 29, 2024"
+"Mar 29, 2024",Intercom,No CRM,KZ (Kazakhstan),11.0,,0.0,Negotiations,,
+"Mar 28, 2024",Inbound call,No CRM,UA (Ukraine),4.0,,0.0,Negotiations,,
+"Mar 28, 2024",Inbound call,No CRM,UA (Ukraine),3.0,,1000-2000,Project set up,,
+"Mar 27, 2024",Partner,AmoCRM,US (United States of America),37.0,,0-500,Trial,,
+"Mar 27, 2024",Facebook PPC,No CRM,UA (Ukraine),3.0,,500-1000,Negotiations,,
+"Mar 27, 2024",Inbound call,No CRM,UA (Ukraine),2.0,,0-500,Trial,,
+"Mar 27, 2024",Partner,altegio,UA (Ukraine),2.0,,500-1000,Project set up,,
+"Mar 27, 2024",Partner,Other,UA (Ukraine),3.0,30.0,0.0,Closed Won,,"Apr 3, 2024"
+"Mar 27, 2024",Partner,No CRM,KZ (Kazakhstan),7.0,,2000-5000,Negotiations,,
+"Mar 26, 2024",Inbound call,Pipedrive,UA (Ukraine),6.0,,500-1000,Closed Lost,Ringostat Smart Phone,"Apr 2, 2024"
+"Mar 27, 2024",Partner,KeyCRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Mar 27, 2024",Intercom,No CRM,UA (Ukraine),3.0,,0.0,Closed Lost,Cranky client,"Apr 1, 2024"
+"Mar 27, 2024",Partner,No CRM,KZ (Kazakhstan),1.0,,0-500,Negotiations,,
+"Mar 26, 2024",Facebook PPC,No CRM,PL (Poland),5.0,,0-500,Negotiations,,
+"Mar 26, 2024",Demo Request,No CRM,PL (Poland),5.0,,0.0,Negotiations,,
+"Mar 27, 2024",Partner,Pipedrive,PL (Poland),3.0,,0-500,Negotiations,,
+"Mar 26, 2024",Partner,Other,UA (Ukraine),4.0,,0.0,Closed Lost,Competitor has better product,"Apr 3, 2024"
+"Mar 27, 2024",Partner,AmoCRM,KZ (Kazakhstan),4.0,,500-1000,Closed Lost,Competitor gave better offer,"Apr 3, 2024"
+"Mar 26, 2024",Facebook PPC,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Solving budget issues,"Mar 26, 2024"
+"Mar 26, 2024",Partner,Bitrix24,UA (Ukraine),3.0,,500-1000,Negotiations,,
+"Mar 25, 2024",Intercom,KeyCRM,UA (Ukraine),3.0,,0-500,Project set up,,
+"Mar 25, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0.0,Negotiations,,
+"Mar 25, 2024",Intercom,Salesforce,US (United States of America),1.0,,20000+,Negotiations,,
+"Mar 25, 2024",Inbound call,Bitrix24,UA (Ukraine),8.0,,2000-5000,Negotiations,,
+"Mar 25, 2024",Registration,No CRM,PL (Poland),7.0,,5000-10000,Negotiations,,
+"Mar 25, 2024",Inbound call,Other,UA (Ukraine),2.0,,0.0,Negotiations,,
+"Mar 25, 2024",Partner,ZohoCRM,US (United States of America),4.0,,0-500,Negotiations,,
+"Mar 25, 2024",Registration,AmoCRM,UA (Ukraine),3.0,,500-1000,Negotiations,,
+"Mar 25, 2024",Demo Request,Pipedrive,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Mar 25, 2024",Intercom,Other,PL (Poland),30.0,,0.0,Negotiations,,
+"Mar 25, 2024",Registration,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Mar 27, 2024"
+"Mar 25, 2024",Partner,ZohoCRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Mar 25, 2024",Registration,NetHunt CRM,UA (Ukraine),2.0,,0.0,Negotiations,,
+"Mar 22, 2024",Registration,No CRM,PL (Poland),3.0,,0.0,Trial,,
+"Mar 24, 2024",Inbound call,No CRM,UA (Ukraine),35.0,,0.0,Closed Lost,Client decided that it was not profitable,"Apr 3, 2024"
+"Mar 22, 2024",Registration,iClinic,UA (Ukraine),2.0,,0-500,Negotiations,,
+"Mar 22, 2024",Inbound call,Other,US (United States of America),5.0,,20000+,Negotiations,,
+"Mar 22, 2024",Intercom,No CRM,UA (Ukraine),16.0,,0-500,Negotiations,,
+"Mar 22, 2024",Inbound call,Salesdrive,UA (Ukraine),1.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 26, 2024"
+"Mar 22, 2024",Inbound call,KeyCRM,PL (Poland),3.0,,0.0,Negotiations,,
+"Mar 22, 2024",Registration,No CRM,PL (Poland),2.0,,0-500,Project set up,,
+"Mar 22, 2024",Partner,Bitrix24,KZ (Kazakhstan),1.0,,1000-2000,Closed Lost,Competitor gave better offer,"Mar 29, 2024"
+"Mar 22, 2024",Inbound call,G-PLUS,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Mar 22, 2024",Inbound call,Custom CRM,UA (Ukraine),15.0,,0.0,Negotiations,,
+"Mar 22, 2024",Inbound call,Bitrix24,UA (Ukraine),40.0,,0.0,Negotiations,,
+"Mar 22, 2024",Demo Request,Custom CRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Mar 22, 2024",Partner,KeyCRM,UA (Ukraine),2.0,,0-500,Closed Lost,Ads not run,"Mar 22, 2024"
+"Mar 22, 2024",Inbound call,KeyCRM,UA (Ukraine),9.0,,0.0,Closed Lost,Client decided that it was not profitable,"Mar 29, 2024"
+"Mar 21, 2024",Partner,No CRM,UA (Ukraine),20.0,,1000-2000,Negotiations,,
+"Mar 21, 2024",Facebook PPC,KeepinCRM,UA (Ukraine),3.0,,0.0,Negotiations,,
+"Mar 21, 2024",Partner,Planfix,UA (Ukraine),5.0,,0-500,Project set up,,
+"Mar 21, 2024",Facebook PPC,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,"Irrelevant client (no ads, calls)","Apr 1, 2024"
+"Mar 21, 2024",Demo Request,Other,IL (Israel),6.0,,0-500,Negotiations,,
+"Mar 21, 2024",Partner,Pipedrive,UA (Ukraine),3.0,,0-500,Closed Lost,Implementing CRM,"Mar 21, 2024"
+"Mar 21, 2024",Registration,Other,LT (Lithuania),6.0,,1000-2000,Negotiations,,
+"Mar 21, 2024",Partner,Pipedrive,PL (Poland),2.0,,0.0,Project set up,,
+"Mar 21, 2024",Partner,Pipedrive,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Mar 29, 2024"
+"Mar 21, 2024",Registration,No CRM,UA (Ukraine),1.0,,0.0,Project set up,,
+"Mar 21, 2024",Registration,KeyCRM,UA (Ukraine),2.0,,0.0,Negotiations,,
+"Mar 20, 2024",Inbound call,Pipedrive,UA (Ukraine),3.0,0.0,0.0,Closed Won,,"Mar 22, 2024"
+"Mar 20, 2024",Reference,KeyCRM,UA (Ukraine),4.0,90.0,0.0,Closed Won,,"Mar 22, 2024"
+"Mar 20, 2024",Facebook PPC,KeyCRM,UA (Ukraine),3.0,,0-500,Negotiations,,
+"Mar 20, 2024",Intercom,No CRM,PL (Poland),20.0,,0.0,Negotiations,,
+"Mar 20, 2024",Facebook PPC,No CRM,PL (Poland),3.0,,0.0,Negotiations,,
+"Mar 20, 2024",Partner,KeyCRM,UA (Ukraine),5.0,,0-500,Trial,,
+"Mar 20, 2024",Partner,No CRM,UA (Ukraine),1.0,,500-1000,Trial,,
+"Mar 20, 2024",Inbound call,NetHunt CRM,ES (Spain),5.0,,0.0,Trial,,
+"Mar 19, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,1000-2000,Closed Won,,"Mar 20, 2024"
+"Mar 19, 2024",Partner,Bitrix24,KZ (Kazakhstan),3.0,360.0,0-500,Closed Won,,"Mar 29, 2024"
+"Mar 19, 2024",Intercom,AmoCRM,PL (Poland),3.0,12-month contract,0.0,Closed Won,,"Mar 21, 2024"
+"Mar 19, 2024",Partner,Bitrix24,KZ (Kazakhstan),0.0,,500-1000,Closed Lost,Partner failed to convey value/ no client's contacts,"Mar 20, 2024"
+"Mar 19, 2024",Partner,No CRM,UA (Ukraine),1.0,,0.0,Project set up,,
+"Mar 19, 2024",Inbound call,AmoCRM,UA (Ukraine),10.0,,1000-2000,Negotiations,,
+"Mar 19, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,500-1000,Closed Won,,"Mar 26, 2024"
+"Mar 19, 2024",Webinar,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Solving budget issues,"Mar 26, 2024"
+"Mar 19, 2024",Partner,Other,UA (Ukraine),1.0,,2000-5000,Negotiations,,
+"Mar 19, 2024",Inbound call,KeyCRM,UA (Ukraine),1.0,,0.0,Negotiations,,
+"Mar 19, 2024",Inbound call,1C as CRM,UA (Ukraine),1.0,,0-500,Payment,,
+"Mar 18, 2024",Registration,Microsoft Dynamics,PL (Poland),10.0,,0.0,Negotiations,,
+"Mar 19, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Mar 19, 2024",Registration,KeyCRM,UA (Ukraine),1.0,90.0,500-1000,Closed Won,,"Mar 25, 2024"
+"Mar 18, 2024",Partner,KeyCRM,UA (Ukraine),2.0,360.0,0-500,Closed Won,,"Mar 28, 2024"
+"Mar 18, 2024",Partner,No CRM,GE (Georgia),1.0,,500-1000,Closed Lost,Partner failed to convey value/ no client's contacts,"Mar 25, 2024"
+"Mar 18, 2024",Partner,1C as CRM,UA (Ukraine),2.0,180.0,2000-5000,Closed Won,,"Mar 28, 2024"
+"Mar 18, 2024",Partner,ZohoCRM,UA (Ukraine),30.0,,2000-5000,Negotiations,,
+"Mar 18, 2024",Partner,No CRM,KZ (Kazakhstan),3.0,,0-500,Negotiations,,
+"Mar 18, 2024",Registration,No CRM,PL (Poland),3.0,12-month contract,0.0,Closed Won,,"Apr 3, 2024"
+"Mar 18, 2024",Demo Request,AmoCRM,UA (Ukraine),6.0,,0.0,Project set up,,
+"Mar 18, 2024",Partner,AmoCRM,KZ (Kazakhstan),7.0,,0.0,Negotiations,,
+"Mar 18, 2024",Demo Request,Pipedrive,UA (Ukraine),2.0,,0-500,Closed Lost,Competitor has better product,"Mar 22, 2024"
+"Mar 18, 2024",Intercom,No CRM,UA (Ukraine),2.0,,1000-2000,Negotiations,,
+"Mar 18, 2024",Demo Request,Hubspot,PL (Poland),3.0,,0-500,Negotiations,,
+"Mar 18, 2024",Inbound call,AmoCRM,KZ (Kazakhstan),4.0,,0-500,Closed Lost,Solving budget issues,"Mar 22, 2024"
+"Mar 18, 2024",Existing client,No CRM,UA (Ukraine),2.0,,0.0,Project set up,,
+"Mar 18, 2024",Reference,No CRM,UA (Ukraine),5.0,,0.0,Closed Lost,"Telecom (numbers, voice traffic)","Mar 18, 2024"
+"Mar 18, 2024",Demo Request,Hubspot,UA (Ukraine),1.0,360.0,0.0,Closed Won,,"Mar 22, 2024"
+"Mar 18, 2024",Partner,Creatio,UA (Ukraine),3.0,90.0,0.0,Closed Won,,"Apr 2, 2024"
+"Mar 15, 2024",Registration,No CRM,UA (Ukraine),3.0,,0-500,Negotiations,,
+"Mar 15, 2024",Webinar,No CRM,UA (Ukraine),1.0,,0.0,Negotiations,,
+"Mar 15, 2024",Intercom,No CRM,UA (Ukraine),5.0,,0-500,Trial,,
+"Mar 15, 2024",Partner,Creatio,UA (Ukraine),5.0,,0.0,Negotiations,,
+"Mar 15, 2024",Inbound call,Other,PL (Poland),25.0,,0.0,Negotiations,,
+"Mar 15, 2024",Partner,No CRM,UA (Ukraine),2.0,,500-1000,Project set up,,
+"Mar 15, 2024",Partner,Other,KZ (Kazakhstan),5.0,,500-1000,Negotiations,,
+"Mar 15, 2024",Partner,No CRM,UA (Ukraine),100.0,,0.0,Closed Lost,Solving budget issues,"Mar 15, 2024"
+"Mar 15, 2024",Existing client,KeepinCRM,LT (Lithuania),1.0,,0-500,Negotiations,,
+"Mar 15, 2024",Existing client,KeyCRM,UA (Ukraine),5.0,,500-1000,Closed Lost,Doing the website,"Mar 18, 2024"
+"Mar 15, 2024",Inbound call,No CRM,UA (Ukraine),6.0,,0.0,Negotiations,,
+"Mar 14, 2024",Facebook PPC,Other,PL (Poland),15.0,,0-500,Negotiations,,
+"Mar 14, 2024",Partner,Bitrix24,KZ (Kazakhstan),5.0,,0.0,Negotiations,,
+"Mar 15, 2024",Partner,No CRM,UA (Ukraine),2.0,180.0,0-500,Closed Won,,"Mar 26, 2024"
+"Mar 14, 2024",Registration,No CRM,CY (Cyprus),3.0,90.0,0.0,Closed Won,,"Mar 19, 2024"
+"Mar 14, 2024",Partner,KeyCRM,UA (Ukraine),2.0,,0-500,Trial,,
+"Mar 14, 2024",Partner,KeyCRM,UA (Ukraine),9.0,,0.0,Closed Lost,Hiring,"Mar 28, 2024"
+"Mar 14, 2024",Partner,KeyCRM,UA (Ukraine),4.0,,0-500,Closed Lost,High price without explanation,"Mar 15, 2024"
+"Mar 14, 2024",Demo Request,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Mar 18, 2024"
+"Mar 14, 2024",Existing client,Pipedrive,UA (Ukraine),2.0,90.0,500-1000,Closed Won,,"Mar 20, 2024"
+"Mar 14, 2024",Partner,Planfix,UA (Ukraine),1.0,,0.0,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 29, 2024"
+"Mar 14, 2024",Partner,No CRM,UA (Ukraine),38.0,,0.0,Closed Lost,Partner failed to convey value/ no client's contacts,"Apr 3, 2024"
+"Mar 14, 2024",Facebook PPC,No CRM,PL (Poland),10.0,,0-500,Negotiations,,
+"Mar 13, 2024",Facebook PPC,No CRM,PL (Poland),2.0,,0-500,Closed Lost,High price without explanation,"Mar 28, 2024"
+"Mar 13, 2024",Partner,Bitrix24,PL (Poland),8.0,,0-500,Negotiations,,
+"Mar 13, 2024",Facebook PPC,No CRM,PL (Poland),3.0,,0.0,Project set up,,
+"Mar 13, 2024",Partner,KeyCRM,UA (Ukraine),6.0,,0-500,Negotiations,,
+"Mar 14, 2024",Partner,Planfix,UA (Ukraine),3.0,30.0,0-500,Closed Won,,"Mar 29, 2024"
+"Mar 13, 2024",Partner,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Mar 19, 2024"
+"Mar 13, 2024",Existing client,KeepinCRM,UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Mar 20, 2024"
+"Mar 13, 2024",Facebook PPC,Other,UA (Ukraine),1.0,360.0,0-500,Closed Won,,"Apr 2, 2024"
+"Mar 13, 2024",Registration,Bitrix24,UA (Ukraine),7.0,,0.0,Trial,,
+"Mar 13, 2024",Partner,Bitrix24,KZ (Kazakhstan),1.0,,0-500,Negotiations,,
+"Mar 13, 2024",Registration,AmoCRM,KZ (Kazakhstan),5.0,,0.0,Closed Lost,High price and customer refused to implement any solution in general,"Mar 26, 2024"
+"Mar 13, 2024",Inbound call,Creatio,UA (Ukraine),1.0,,2000-5000,Payment,,
+"Mar 13, 2024",Partner,Uspacy,UA (Ukraine),1.0,,0-500,Closed Lost,High price without explanation,"Mar 15, 2024"
+"Mar 13, 2024",Intercom,No CRM,PL (Poland),1.0,,500-1000,Closed Lost,Ads not run,"Mar 19, 2024"
+"Mar 13, 2024",Registration,KeepinCRM,UA (Ukraine),3.0,,0-500,Closed Lost,Solving budget issues,"Mar 19, 2024"
+"Mar 13, 2024",Intercom,Bitrix24,KZ (Kazakhstan),5.0,90.0,500-1000,Closed Won,,"Apr 1, 2024"
+"Mar 13, 2024",Existing client,No CRM,UA (Ukraine),1.0,,0.0,Closed Lost,Competitor gave better offer,"Mar 13, 2024"
+"Mar 12, 2024",Intercom,Other,UA (Ukraine),2.0,,0-500,Trial,,"Mar 19, 2024"
+"Mar 12, 2024",Facebook PPC,Other,UA (Ukraine),2.0,,0-500,Closed Lost,Integrations,"Mar 12, 2024"
+"Mar 12, 2024",Partner,G-PLUS,UA (Ukraine),4.0,,0.0,Negotiations,,
+"Mar 12, 2024",Facebook PPC,Other,PL (Poland),3.0,,0-500,Negotiations,,
+"Mar 12, 2024",Registration,Other,UA (Ukraine),1.0,180.0,500-1000,Closed Won,,"Mar 19, 2024"
+"Mar 12, 2024",Registration,Custom CRM,KZ (Kazakhstan),27.0,,0-500,Negotiations,,
+"Mar 12, 2024",Facebook PPC,No CRM,UA (Ukraine),8.0,,1000-2000,Negotiations,,
+"Mar 12, 2024",Webinar,Custom CRM,UA (Ukraine),20.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 12, 2024"
+"Mar 12, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Stopped communicating,"Mar 21, 2024"
+"Mar 12, 2024",Inbound call,AmoCRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Phone system,"Mar 26, 2024"
+"Mar 12, 2024",Partner,ZohoCRM,UA (Ukraine),1.0,90.0,0.0,Closed Won,,"Mar 21, 2024"
+"Mar 12, 2024",Intercom,No CRM,PL (Poland),3.0,,0-500,Negotiations,,
+"Mar 12, 2024",Facebook PPC,No CRM,PL (Poland),4.0,,0.0,Negotiations,,
+"Mar 12, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Trial,,
+"Mar 12, 2024",Partner,RealtSoft,UA (Ukraine),1.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 12, 2024"
+"Mar 12, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 12, 2024"
+"Mar 12, 2024",Inbound call,KeyCRM,UA (Ukraine),15.0,,500-1000,Closed Lost,Solving budget issues,"Mar 22, 2024"
+"Mar 12, 2024",Partner,AmoCRM,KZ (Kazakhstan),2.0,,500-1000,Negotiations,,
+"Mar 12, 2024",Inbound call,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Solving budget issues,"Mar 12, 2024"
+"Mar 12, 2024",Partner,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,Hiring,"Apr 2, 2024"
+"Mar 12, 2024",Partner,No CRM,KZ (Kazakhstan),4.0,,1000-2000,Payment,,
+"Mar 11, 2024",Intercom,No CRM,UA (Ukraine),300.0,,0.0,Closed Lost,High price and customer refused to implement any solution in general,"Mar 25, 2024"
+"Mar 11, 2024",Registration,Microsoft Dynamics,PL (Poland),3.0,,500-1000,Closed Lost,Competitor has better product,"Mar 11, 2024"
+"Mar 11, 2024",Partner,No CRM,UA (Ukraine),1.0,,500-1000,Project set up,,
+"Mar 11, 2024",Partner,Salesdrive,UA (Ukraine),1.0,,1000-2000,Project set up,,
+"Mar 11, 2024",Intercom,No CRM,PL (Poland),3.0,,2000-5000,Negotiations,,
+"Mar 11, 2024",Facebook PPC,No CRM,PL (Poland),5.0,,500-1000,Negotiations,,
+"Mar 11, 2024",Registration,No CRM,UA (Ukraine),1.0,90.0,0.0,Closed Won,,"Mar 28, 2024"
+"Mar 11, 2024",Demo Request,Custom CRM,UA (Ukraine),3.0,,500-1000,Closed Lost,Solving budget issues,"Mar 19, 2024"
+"Mar 11, 2024",Registration,No CRM,UA (Ukraine),2.0,,0.0,Closed Lost,Solving budget issues,"Mar 11, 2024"
+"Mar 11, 2024",Existing client,Microsoft Dynamics,UA (Ukraine),80.0,,0-500,Negotiations,,
+"Mar 11, 2024",Intercom,No CRM,GE (Georgia),1.0,,0.0,Closed Lost,Stopped communicating,"Apr 2, 2024"
+"Mar 11, 2024",Inbound call,No CRM,KZ (Kazakhstan),4.0,,500-1000,Closed Lost,High price and customer refused to implement any solution in general,"Apr 3, 2024"
+"Mar 11, 2024",Registration,No CRM,PL (Poland),5.0,,0-500,Negotiations,,
+"Mar 11, 2024",Partner,Salesdrive,UA (Ukraine),6.0,90.0,2000-5000,Closed Won,,"Apr 2, 2024"
+"Mar 11, 2024",Partner,No CRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Mar 26, 2024"
+"Mar 11, 2024",Existing client,No CRM,UA (Ukraine),3.0,,0-500,Trial,,
+"Mar 8, 2024",Registration,No CRM,PL (Poland),5.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 28, 2024"
+"Mar 8, 2024",Registration,Firmao,PL (Poland),6.0,,0-500,Trial,,
+"Mar 8, 2024",Inbound call,No CRM,PL (Poland),2.0,,0-500,Negotiations,,
+"Mar 7, 2024",Registration,Other,PL (Poland),5.0,,0-500,Payment,,
+"Mar 7, 2024",Facebook PPC,Other,PL (Poland),4.0,,0.0,Negotiations,,
+"Mar 7, 2024",Registration,NetHunt CRM,US (United States of America),3.0,,0-500,Closed Lost,Phone system,"Mar 27, 2024"
+"Mar 7, 2024",Registration,No CRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Mar 7, 2024",Inbound call,No CRM,UA (Ukraine),4.0,,500-1000,Closed Lost,Partner failed to convey value/ no client's contacts,"Mar 14, 2024"
+"Mar 7, 2024",Inbound call,No CRM,KZ (Kazakhstan),2.0,,0-500,Negotiations,,
+"Mar 6, 2024",Partner,No CRM,UA (Ukraine),8.0,90.0,0.0,Closed Won,,"Mar 13, 2024"
+"Mar 7, 2024",Partner,Creatio,UA (Ukraine),2.0,,0-500,Closed Lost,Implementing CRM,"Mar 21, 2024"
+"Mar 7, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0.0,Project set up,,
+"Mar 7, 2024",Intercom,Bitrix24,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Mar 29, 2024"
+"Mar 7, 2024",Partner,No CRM,UA (Ukraine),1.0,,500-1000,Negotiations,,
+"Mar 7, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,500-1000,Closed Won,,"Mar 19, 2024"
+"Mar 6, 2024",Inbound call,1C as CRM,UA (Ukraine),5.0,,0-500,Negotiations,,
+"Mar 6, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,High price without explanation,"Mar 11, 2024"
+"Mar 6, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Couldn't handle the objection,"Mar 6, 2024"
+"Mar 6, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,Client decided that it was not profitable,"Mar 22, 2024"
+"Mar 6, 2024",Inbound call,No CRM,PL (Poland),3.0,360.0,0-500,Closed Won,,"Mar 29, 2024"
+"Mar 6, 2024",Registration,No CRM,PL (Poland),3.0,,0-500,Negotiations,,
+"Mar 6, 2024",Facebook PPC,No CRM,PL (Poland),2.0,,0.0,Closed Lost,Competitor gave better offer,"Mar 8, 2024"
+"Mar 6, 2024",Registration,Pipedrive,PL (Poland),5.0,,0-500,Closed Lost,Solving budget issues,"Mar 19, 2024"
+"Mar 6, 2024",Facebook PPC,No CRM,PL (Poland),3.0,,0-500,Project set up,,
+"Mar 6, 2024",Partner,NetHunt CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Solving budget issues,"Mar 21, 2024"
+"Mar 6, 2024",Intercom,NetHunt CRM,UA (Ukraine),4.0,,0-500,Trial,,
+"Mar 6, 2024",Partner,Creatio,UA (Ukraine),10.0,,0-500,Closed Lost,Competitor has better product,"Mar 19, 2024"
+"Mar 6, 2024",Inbound call,No CRM,UA (Ukraine),3.0,360.0,0-500,Closed Won,,"Mar 20, 2024"
+"Mar 6, 2024",Registration,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 14, 2024"
+"Mar 6, 2024",Registration,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 20, 2024"
+"Mar 6, 2024",Partner,Pipedrive,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Mar 19, 2024"
+"Mar 5, 2024",Partner,No CRM,US (United States of America),1.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Mar 21, 2024"
+"Mar 5, 2024",Partner,Bitrix24,GE (Georgia),18.0,,0-500,Closed Lost,Client decided that it was not profitable,"Mar 14, 2024"
+"Mar 5, 2024",Partner,KeyCRM,UA (Ukraine),20.0,,0-500,Negotiations,,
+"Mar 5, 2024",Facebook PPC,No CRM,PL (Poland),25.0,,500-1000,Closed Lost,Stopped communicating,"Mar 22, 2024"
+"Mar 5, 2024",Facebook PPC,No CRM,PL (Poland),7.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Mar 15, 2024"
+"Mar 5, 2024",Partner,Pipedrive,GE (Georgia),3.0,,500-1000,Closed Lost,Ads not run,"Mar 7, 2024"
+"Mar 5, 2024",Inbound call,Integrica,UA (Ukraine),1.0,,0-500,Closed Lost,Hiring,"Mar 6, 2024"
+"Mar 5, 2024",Registration,KeepinCRM,UA (Ukraine),2.0,,1000-2000,Closed Lost,Competitor gave better offer,"Mar 14, 2024"
+"Mar 4, 2024",Partner,No CRM,EE (Estonia),1.0,180.0,0-500,Closed Won,,"Mar 26, 2024"
+"Mar 4, 2024",Inbound call,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 4, 2024"
+"Mar 5, 2024",Registration,AmoCRM,UA (Ukraine),7.0,,0-500,Closed Lost,Competitor has better product,"Mar 12, 2024"
+"Mar 5, 2024",Intercom,No CRM,US (United States of America),5.0,360.0,500-1000,Closed Won,,"Apr 3, 2024"
+"Mar 4, 2024",Partner,No CRM,UA (Ukraine),3.0,,0-500,Project set up,,
+"Mar 5, 2024",Inbound call,Is not using,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Mar 7, 2024"
+"Mar 5, 2024",Inbound call,NetHunt CRM,UA (Ukraine),3.0,,0-500,Negotiations,,
+"Mar 4, 2024",Partner,Creatio,UA (Ukraine),7.0,,0-500,Closed Lost,Competitor has better product with better price,"Mar 15, 2024"
+"Mar 4, 2024",Intercom,No CRM,EE (Estonia),4.0,,0-500,Closed Lost,Competitor has better product with better price,"Mar 8, 2024"
+"Mar 4, 2024",Partner,KeyCRM,UA (Ukraine),2.0,,500-1000,Negotiations,,
+"Mar 4, 2024",Partner,No CRM,KZ (Kazakhstan),1.0,,500-1000,Negotiations,,
+"Mar 4, 2024",Partner,No CRM,PL (Poland),3.0,,0-500,Closed Lost,Client decided that it was not profitable,"Mar 25, 2024"
+"Mar 4, 2024",Partner,NetHunt CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Apr 1, 2024"
+"Mar 4, 2024",Inbound call,No CRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Stopped communicating,"Mar 21, 2024"
+"Mar 4, 2024",Inbound call,Bitrix24,KZ (Kazakhstan),37.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Mar 13, 2024"
+"Mar 4, 2024",Partner,No CRM,UA (Ukraine),5.0,,0-500,Negotiations,,
+"Mar 1, 2024",Facebook PPC,Salesforce,PL (Poland),30.0,,0-500,Negotiations,,
+"Mar 1, 2024",Inbound call,Pipedrive,PL (Poland),3.0,,0-500,Closed Lost,"Telecom (numbers, voice traffic)","Mar 14, 2024"
+"Mar 1, 2024",Partner,Other,UA (Ukraine),14.0,,0-500,Trial,,
+"Mar 1, 2024",Demo Request,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Stopped communicating,"Mar 15, 2024"
+"Mar 4, 2024",Inbound call,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 11, 2024"
+"Mar 1, 2024",Partner,KeyCRM,UA (Ukraine),5.0,360.0,0-500,Closed Won,,"Mar 19, 2024"
+"Mar 4, 2024",Partner,No CRM,PT (Portugal),3.0,,500-1000,Trial,,
+"Mar 1, 2024",Intercom,Bitrix24,UA (Ukraine),2.0,,2000-5000,Negotiations,,
+"Mar 4, 2024",Registration,No CRM,UA (Ukraine),1.0,,0-500,Trial,,
+"Mar 1, 2024",Inbound call,Other,PL (Poland),2.0,,0-500,Trial,,
+"Mar 1, 2024",Intercom,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Mar 4, 2024"
+"Mar 1, 2024",Intercom,No CRM,KZ (Kazakhstan),5.0,,0-500,Project set up,,
+"Mar 1, 2024",Inbound call,Creatio,UA (Ukraine),18.0,,500-1000,Negotiations,,
+"Feb 29, 2024",Existing client,No CRM,UA (Ukraine),3.0,,0-500,Payment,,
+"Feb 29, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,500-1000,Closed Won,,"Mar 27, 2024"
+"Feb 29, 2024",Inbound call,Bitrix24,UA (Ukraine),3.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Mar 22, 2024"
+"Feb 29, 2024",Facebook PPC,Other,PL (Poland),3.0,,500-1000,Closed Lost,Cranky client,"Mar 20, 2024"
+"Mar 1, 2024",Partner,KeyCRM,UA (Ukraine),2.0,90.0,500-1000,Closed Won,,"Mar 18, 2024"
+"Mar 1, 2024",Intercom,Creatio,UA (Ukraine),2.0,,0-500,Closed Lost,Ringostat Smart Phone,"Apr 2, 2024"
+"Feb 29, 2024",Partner,KeyCRM,UA (Ukraine),4.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 6, 2024"
+"Feb 29, 2024",Demo Request,No CRM,HU (Hungary),2.0,,500-1000,Closed Lost,Doing the website,"Mar 12, 2024"
+"Feb 29, 2024",Facebook PPC,No CRM,PL (Poland),1.0,12-month contract,0-500,Closed Won,,"Mar 18, 2024"
+"Feb 29, 2024",Registration,No CRM,PL (Poland),5.0,,500-1000,Closed Lost,Client decided that it was not profitable,"Mar 19, 2024"
+"Feb 29, 2024",Partner,No CRM,KZ (Kazakhstan),3.0,,0-500,Negotiations,,
+"Feb 29, 2024",Partner,Other,UA (Ukraine),1.0,,500-1000,Project set up,,"Mar 6, 2024"
+"Feb 29, 2024",Inbound call,No CRM,UA (Ukraine),8.0,,0-500,Project set up,,
+"Feb 29, 2024",Partner,PERFECTUM,DE (Germany),4.0,,0-500,Closed Lost,Stopped communicating,"Mar 15, 2024"
+"Feb 28, 2024",Partner,altegio,UA (Ukraine),3.0,,0-500,Negotiations,,
+"Feb 28, 2024",Registration,CRM Binotel,UA (Ukraine),1.0,,0-500,Payment,,
+"Feb 29, 2024",Inbound call,No CRM,UA (Ukraine),5.0,,0-500,Closed Lost,Solving budget issues,"Mar 12, 2024"
+"Feb 28, 2024",Partner,Creatio,UA (Ukraine),10.0,,0-500,Negotiations,,
+"Feb 28, 2024",Inbound call,Beauty Pro,UA (Ukraine),2.0,,0-500,Closed Lost,Integrations,"Mar 20, 2024"
+"Feb 28, 2024",Inbound call,Onebox,UA (Ukraine),8.0,,0-500,Closed Lost,Competitor gave better offer,"Apr 2, 2024"
+"Feb 29, 2024",Partner,KeyCRM,UA (Ukraine),5.0,,0-500,Closed Lost,Client decided that it was not profitable,"Mar 7, 2024"
+"Feb 28, 2024",Existing client,Custom CRM,GE (Georgia),1.0,90.0,0-500,Closed Won,,"Mar 5, 2024"
+"Feb 28, 2024",Partner,1C as CRM,UA (Ukraine),16.0,,0-500,Closed Lost,Competitor has better product with better price,"Mar 6, 2024"
+"Feb 29, 2024",Partner,RealtSoft,UA (Ukraine),3.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 14, 2024"
+"Feb 29, 2024",Intercom,NetHunt CRM,PL (Poland),2.0,,500-1000,Closed Lost,High price without explanation,"Mar 14, 2024"
+"Feb 28, 2024",Registration,altegio,UA (Ukraine),2.0,,0-500,Closed Lost,Ringostat Smart Phone,"Mar 19, 2024"
+"Feb 28, 2024",Intercom,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Phone system,"Mar 5, 2024"
+"Feb 28, 2024",Registration,AmoCRM,LV (Latvia),1.0,,0-500,Closed Lost,Other,"Feb 28, 2024"
+"Feb 28, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Stopped communicating,"Mar 12, 2024"
+"Feb 28, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Phone system,"Mar 15, 2024"
+"Feb 28, 2024",Demo Request,No CRM,PL (Poland),7.0,,0-500,Closed Lost,Ringostat Smart Phone,"Mar 19, 2024"
+"Feb 28, 2024",Partner,KeyCRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Mar 19, 2024"
+"Feb 28, 2024",Inbound call,KeepinCRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Mar 20, 2024"
+"Feb 28, 2024",Partner,KeyCRM,UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Mar 20, 2024"
+"Feb 28, 2024",Intercom,No CRM,UA (Ukraine),2.0,360.0,500-1000,Closed Won,,"Mar 11, 2024"
+"Feb 28, 2024",Partner,Creatio,UA (Ukraine),2.0,180.0,500-1000,Closed Won,,"Mar 28, 2024"
+"Feb 28, 2024",Inbound call,No CRM,UA (Ukraine),2.0,90.0,500-1000,Closed Won,,"Mar 13, 2024"
+"Feb 28, 2024",Partner,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,Solving budget issues,"Mar 4, 2024"
+"Feb 28, 2024",Partner,KeepinCRM,UA (Ukraine),1.0,,1000-2000,Closed Lost,Ringostat Smart Phone,"Mar 14, 2024"
+"Feb 28, 2024",Inbound call,Other,PL (Poland),5.0,,0-500,Negotiations,,
+"Feb 28, 2024",Partner,Salesdrive,UA (Ukraine),10.0,,0-500,Closed Lost,Hiring,"Mar 5, 2024"
+"Feb 27, 2024",Registration,No CRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Competitor has better product,"Mar 6, 2024"
+"Feb 27, 2024",Inbound call,AmoCRM,PL (Poland),3.0,90.0,0-500,Closed Won,,"Mar 12, 2024"
+"Feb 27, 2024",Inbound call,Firmao,PL (Poland),3.0,,0-500,Trial,,
+"Feb 27, 2024",Intercom,No CRM,UA (Ukraine),6.0,90.0,0-500,Closed Won,,"Mar 6, 2024"
+"Feb 27, 2024",Registration,Other,PL (Poland),2.0,180.0,0-500,Closed Won,,"Mar 12, 2024"
+"Feb 27, 2024",Partner,No CRM,PL (Poland),1.0,90.0,500-1000,Closed Won,,"Mar 11, 2024"
+"Feb 27, 2024",Partner,Microsoft Dynamics,UA (Ukraine),1.0,,0-500,Closed Lost,Ads not run,"Feb 28, 2024"
+"Feb 27, 2024",Facebook PPC,No CRM,PL (Poland),17.0,,0-500,Negotiations,,
+"Feb 27, 2024",Facebook PPC,Bitrix24,PL (Poland),9.0,,0-500,Closed Lost,Hiring,"Feb 27, 2024"
+"Feb 27, 2024",Inbound call,Bitrix24,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 1, 2024"
+"Feb 27, 2024",Partner,Other,UA (Ukraine),2.0,,0-500,Closed Lost,Stopped communicating,"Mar 5, 2024"
+"Feb 27, 2024",Intercom,Creatio,UA (Ukraine),1.0,180.0,500-1000,Closed Won,,"Mar 27, 2024"
+"Feb 26, 2024",Intercom,NetHunt CRM,UA (Ukraine),5.0,,500-1000,Negotiations,,
+"Feb 26, 2024",Inbound call,No CRM,UA (Ukraine),80.0,,0-500,Project set up,,
+"Feb 26, 2024",Demo Request,iClinic,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Mar 15, 2024"
+"Feb 26, 2024",Demo Request,No CRM,UA (Ukraine),10.0,,0-500,Closed Lost,"Irrelevant client (no ads, calls)","Feb 26, 2024"
+"Feb 26, 2024",Facebook PPC,No CRM,PL (Poland),3.0,,0-500,Negotiations,,
+"Feb 26, 2024",Partner,No CRM,KZ (Kazakhstan),3.0,,5000-10000,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 4, 2024"
+"Feb 26, 2024",Partner,No CRM,UA (Ukraine),2.0,180.0,500-1000,Closed Won,,"Mar 11, 2024"
+"Feb 26, 2024",Partner,Bitrix24,KZ (Kazakhstan),1.0,90.0,500-1000,Closed Won,,"Mar 13, 2024"
+"Feb 26, 2024",Intercom,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 29, 2024"
+"Feb 26, 2024",Registration,No CRM,KZ (Kazakhstan),10.0,,0-500,Negotiations,,
+"Feb 26, 2024",Inbound call,Custom CRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Mar 27, 2024"
+"Feb 26, 2024",Inbound call,No CRM,UA (Ukraine),4.0,,500-1000,Closed Lost,Stopped communicating,"Mar 14, 2024"
+"Feb 26, 2024",Partner,Other,KZ (Kazakhstan),5.0,,500-1000,Closed Lost,Doing the website,"Mar 19, 2024"
+"Feb 26, 2024",Registration,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Stopped communicating,"Feb 28, 2024"
+"Feb 26, 2024",Demo Request,iiko,KZ (Kazakhstan),5.0,,0-500,Closed Lost,Failed to produce value even though it was possible,"Mar 12, 2024"
+"Feb 23, 2024",Inbound call,Salesdrive,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Mar 6, 2024"
+"Feb 23, 2024",Inbound call,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Doing the website,"Mar 12, 2024"
+"Feb 23, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,500-1000,Closed Won,,"Feb 23, 2024"
+"Feb 23, 2024",Partner,No CRM,KZ (Kazakhstan),16.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 6, 2024"
+"Feb 23, 2024",Partner,Other,UA (Ukraine),4.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 11, 2024"
+"Feb 23, 2024",Intercom,Pipedrive,PL (Poland),4.0,180.0,0-500,Closed Won,,"Mar 5, 2024"
+"Feb 23, 2024",Inbound call,No CRM,PL (Poland),3.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 29, 2024"
+"Feb 23, 2024",Intercom,No CRM,US (United States of America),1.0,,0-500,Project set up,,
+"Feb 23, 2024",Inbound call,No CRM,PL (Poland),6.0,360.0,0-500,Closed Won,,"Mar 14, 2024"
+"Feb 23, 2024",Partner,Bitrix24,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Mar 13, 2024"
+"Feb 23, 2024",Inbound call,AmoCRM,AE (United Arab Emirates),5.0,90.0,500-1000,Closed Won,,"Feb 28, 2024"
+"Feb 23, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 28, 2024"
+"Feb 23, 2024",Ringostat Messenger,KeyCRM,UA (Ukraine),4.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 5, 2024"
+"Feb 23, 2024",Facebook PPC,No CRM,UA (Ukraine),1.0,,0-500,Trial,,"Mar 7, 2024"
+"Feb 23, 2024",Partner,AmoCRM,KZ (Kazakhstan),10.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 23, 2024"
+"Feb 23, 2024",Facebook PPC,No CRM,UA (Ukraine),4.0,,500-1000,Negotiations,,
+"Feb 23, 2024",Partner,AmoCRM,UA (Ukraine),1.0,180.0,1000-2000,Closed Won,,"Mar 12, 2024"
+"Feb 23, 2024",Existing client,Bitrix24,UA (Ukraine),10.0,,0-500,Payment,,
+"Feb 23, 2024",Partner,No CRM,UA (Ukraine),5.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 24, 2024"
+"Feb 22, 2024",Facebook PPC,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Doing the website,"Mar 15, 2024"
+"Feb 23, 2024",Partner,No CRM,DE (Germany),0.0,,500-1000,Closed Lost,"Irrelevant client (no ads, calls)","Mar 20, 2024"
+"Feb 22, 2024",Webinar,NetHunt CRM,PL (Poland),1.0,360.0,0-500,Closed Won,,"Feb 29, 2024"
+"Feb 22, 2024",Registration,KeyCRM,PL (Poland),1.0,,0-500,Closed Lost,Hiring,"Apr 3, 2024"
+"Feb 22, 2024",Partner,AmoCRM,UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Feb 28, 2024"
+"Feb 22, 2024",Inbound call,AmoCRM,PL (Poland),2.0,,0-500,Closed Lost,Cranky client,"Feb 28, 2024"
+"Feb 22, 2024",Facebook PPC,No CRM,PL (Poland),10.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 4, 2024"
+"Feb 22, 2024",Partner,Bitrix24,UA (Ukraine),10.0,,500-1000,Payment,,
+"Feb 22, 2024",Partner,KeyCRM,UA (Ukraine),6.0,,0-500,Closed Lost,Stopped communicating,"Mar 18, 2024"
+"Feb 22, 2024",Partner,Creatio,UA (Ukraine),10.0,,0-500,Closed Lost,Implementing CRM,"Mar 7, 2024"
+"Feb 21, 2024",Partner,Creatio,UA (Ukraine),4.0,90.0,0-500,Closed Won,,"Mar 7, 2024"
+"Feb 22, 2024",Intercom,Other,UA (Ukraine),2.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 11, 2024"
+"Feb 22, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Mar 11, 2024"
+"Feb 21, 2024",Registration,No CRM,UA (Ukraine),1.0,360.0,0-500,Closed Won,,"Feb 21, 2024"
+"Feb 21, 2024",Partner,Custom CRM,UA (Ukraine),2.0,90.0,500-1000,Closed Won,,"Mar 20, 2024"
+"Feb 21, 2024",Facebook PPC,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 12, 2024"
+"Feb 22, 2024",Inbound call,Bitrix24,KZ (Kazakhstan),156.0,,5000-10000,Closed Lost,No responsible of the project at the moment,"Mar 28, 2024"
+"Feb 22, 2024",Partner,No CRM,KZ (Kazakhstan),30.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 21, 2024"
+"Feb 21, 2024",Intercom,ZohoCRM,UA (Ukraine),7.0,90.0,0-500,Closed Won,,"Mar 19, 2024"
+"Feb 22, 2024",Partner,AmoCRM,UA (Ukraine),1.0,,0-500,Negotiations,,
+"Feb 22, 2024",Intercom,Bitrix24,ES (Spain),10.0,,0-500,Closed Lost,Stopped communicating,"Mar 20, 2024"
+"Feb 21, 2024",Partner,Salesdrive,UA (Ukraine),3.0,,0-500,Negotiations,,
+"Feb 21, 2024",Inbound call,Other,PL (Poland),6.0,,0-500,Trial,,
+"Feb 21, 2024",Intercom,No CRM,UA (Ukraine),30.0,,0-500,Negotiations,,
+"Feb 21, 2024",Inbound call,CleverBOX,UA (Ukraine),2.0,,0-500,Closed Lost,Competitor has better product,"Feb 27, 2024"
+"Feb 21, 2024",Partner,NetHunt CRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Feb 26, 2024"
+"Feb 20, 2024",Intercom,Onebox,UA (Ukraine),10.0,,20000+,Negotiations,,
+"Feb 21, 2024",Inbound call,PERFECTUM,UA (Ukraine),3.0,,0-500,Closed Lost,Stopped communicating,"Apr 3, 2024"
+"Feb 20, 2024",Registration,Cliniccards,UA (Ukraine),1.0,,0-500,Closed Lost,Competitor has better product,"Mar 5, 2024"
+"Feb 20, 2024",Facebook PPC,No CRM,PL (Poland),3.0,,0-500,Closed Lost,Solving budget issues,"Feb 28, 2024"
+"Feb 20, 2024",Registration,Other,UA (Ukraine),2.0,,0-500,Trial,,
+"Feb 20, 2024",Intercom,Other,US (United States of America),12.0,,5000-10000,Negotiations,,
+"Feb 20, 2024",Registration,Hubspot,PL (Poland),3.0,12-month contract,0-500,Closed Won,,"Mar 20, 2024"
+"Feb 20, 2024",Social networks,Other,PL (Poland),5.0,,0-500,Negotiations,,
+"Feb 20, 2024",Registration,Bitrix24,KZ (Kazakhstan),5.0,,0-500,Closed Lost,Did not provide official documents on request,"Mar 5, 2024"
+"Feb 20, 2024",Inbound call,No CRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 23, 2024"
+"Feb 20, 2024",Facebook PPC,Custom CRM,UA (Ukraine),16.0,,0-500,Closed Lost,Competitor has better product,"Mar 6, 2024"
+"Feb 20, 2024",Intercom,No CRM,KZ (Kazakhstan),8.0,,500-1000,Negotiations,,
+"Feb 20, 2024",Registration,No CRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 14, 2024"
+"Feb 19, 2024",Partner,Bitrix24,UA (Ukraine),1.0,,0-500,Trial,,
+"Feb 19, 2024",Registration,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 22, 2024"
+"Feb 19, 2024",Partner,KeepinCRM,UA (Ukraine),5.0,,0-500,Closed Lost,Phone system,"Feb 26, 2024"
+"Feb 19, 2024",Registration,Firmao,PL (Poland),7.0,,0-500,Trial,,
+"Feb 19, 2024",Partner,No CRM,UA (Ukraine),5.0,,0-500,Trial,,
+"Feb 19, 2024",Inbound call,No CRM,PL (Poland),6.0,,0-500,Project set up,,
+"Feb 19, 2024",Inbound call,Custom CRM,KZ (Kazakhstan),50.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 5, 2024"
+"Feb 19, 2024",Intercom,Other,KZ (Kazakhstan),30.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 26, 2024"
+"Feb 19, 2024",Registration,No CRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Hiring,"Feb 26, 2024"
+"Feb 19, 2024",Registration,KeyCRM,UA (Ukraine),4.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 21, 2024"
+"Feb 19, 2024",Facebook PPC,Salesdrive,UA (Ukraine),3.0,,5000-10000,Closed Lost,High price without explanation,"Feb 29, 2024"
+"Feb 19, 2024",Inbound call,AmoCRM,UA (Ukraine),50.0,90.0,0-500,Closed Won,,"Feb 26, 2024"
+"Feb 16, 2024",Registration,Other,US (United States of America),1.0,,0-500,Closed Lost,Ads not run,"Feb 23, 2024"
+"Feb 16, 2024",Registration,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 20, 2024"
+"Feb 16, 2024",Inbound call,KeepinCRM,UA (Ukraine),6.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Feb 22, 2024"
+"Feb 16, 2024",Intercom,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Stopped communicating,"Mar 1, 2024"
+"Feb 16, 2024",Partner,No CRM,UA (Ukraine),5.0,,0-500,Closed Lost,Contacted with a lead too late,"Feb 22, 2024"
+"Feb 16, 2024",Intercom,No CRM,LV (Latvia),2.0,,0-500,Closed Lost,Client decided that it was not profitable,"Mar 13, 2024"
+"Feb 16, 2024",Inbound call,No CRM,UA (Ukraine),2.0,,0-500,Negotiations,,
+"Feb 16, 2024",Registration,No CRM,KZ (Kazakhstan),10.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 21, 2024"
+"Feb 16, 2024",Inbound call,AmoCRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Solving budget issues,"Mar 11, 2024"
+"Feb 16, 2024",Partner,No CRM,KZ (Kazakhstan),1.0,90.0,0-500,Closed Won,,"Feb 20, 2024"
+"Feb 16, 2024",Partner,Bitrix24,KZ (Kazakhstan),4.0,,0-500,Project set up,,
+"Feb 16, 2024",Demo Request,No CRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Ads not run,"Feb 21, 2024"
+"Feb 16, 2024",Demo Request,No CRM,KZ (Kazakhstan),8.0,,500-1000,Closed Lost,High price without explanation,"Feb 23, 2024"
+"Feb 16, 2024",Partner,Odoo,UA (Ukraine),4.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 26, 2024"
+"Feb 15, 2024",Partner,Salesdrive,UA (Ukraine),2.0,,1000-2000,Closed Lost,Client decided that it was not profitable,"Feb 19, 2024"
+"Feb 15, 2024",Intercom,AmoCRM,AZ (Azerbaijan),3.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Feb 19, 2024"
+"Feb 15, 2024",Registration,Custom CRM,IL (Israel),4.0,90.0,0-500,Closed Won,,"Feb 20, 2024"
+"Feb 15, 2024",Partner,KeepinCRM,UA (Ukraine),1.0,180.0,0-500,Closed Won,,"Apr 3, 2024"
+"Feb 15, 2024",Partner,No CRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Mar 5, 2024"
+"Feb 15, 2024",Partner,KeyCRM,UA (Ukraine),20.0,,1000-2000,Closed Lost,Client decided that it was not profitable,"Feb 20, 2024"
+"Feb 15, 2024",Intercom,No CRM,UA (Ukraine),1.0,180.0,0-500,Closed Won,,"Feb 29, 2024"
+"Feb 15, 2024",Existing client,No CRM,KZ (Kazakhstan),1.0,360.0,0-500,Closed Won,,"Feb 15, 2024"
+"Feb 15, 2024",Registration,NetHunt CRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Feb 20, 2024"
+"Feb 15, 2024",Partner,KeyCRM,UA (Ukraine),2.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Mar 12, 2024"
+"Feb 15, 2024",Ringostat Messenger,Custom CRM,UA (Ukraine),80.0,,0-500,Closed Lost,Competitor has better product,"Mar 28, 2024"
+"Feb 15, 2024",Existing client,Other,UZ (Uzbekistan),4.0,,1000-2000,Negotiations,,
+"Feb 15, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Trial,,"Mar 6, 2024"
+"Feb 15, 2024",Intercom,Salesdrive,UA (Ukraine),1.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 13, 2024"
+"Feb 14, 2024",Facebook PPC,Odoo,UA (Ukraine),1.0,,0-500,Closed Lost,Implementing CRM,"Mar 12, 2024"
+"Feb 14, 2024",Intercom,Bitrix24,UA (Ukraine),15.0,,0-500,Closed Lost,Client decided that it was not profitable,"Mar 15, 2024"
+"Feb 14, 2024",Intercom,Bitrix24,PL (Poland),11.0,,0-500,Closed Lost,Couldn't handle the objection,"Mar 22, 2024"
+"Feb 14, 2024",Registration,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Illegal industry,"Feb 16, 2024"
+"Feb 14, 2024",Intercom,Salesdrive,UA (Ukraine),4.0,,5000-10000,Closed Lost,Competitor gave better offer,"Mar 15, 2024"
+"Feb 14, 2024",Inbound call,No CRM,UA (Ukraine),6.0,,0-500,Closed Lost,Competitor has better product with better price,"Mar 6, 2024"
+"Feb 14, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,1000-2000,Closed Lost,Stopped communicating,"Mar 26, 2024"
+"Feb 13, 2024",Facebook PPC,Custom CRM,PL (Poland),9.0,,0-500,Closed Lost,Implementing CRM,"Mar 8, 2024"
+"Feb 14, 2024",Partner,KeyCRM,UA (Ukraine),5.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 4, 2024"
+"Feb 14, 2024",Demo Request,No CRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,"Telecom (numbers, voice traffic)","Mar 7, 2024"
+"Feb 14, 2024",Inbound call,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Solving budget issues,"Mar 21, 2024"
+"Feb 13, 2024",Facebook PPC,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Hiring,"Feb 14, 2024"
+"Feb 14, 2024",Inbound call,Beauty Pro,UA (Ukraine),4.0,180.0,0-500,Closed Won,,"Feb 28, 2024"
+"Feb 14, 2024",Inbound call,No CRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 12, 2024"
+"Feb 14, 2024",Partner,Bitrix24,KZ (Kazakhstan),12.0,,0-500,Payment,,
+"Feb 13, 2024",Partner,No CRM,CA (Canada),1.0,,0-500,Negotiations,,
+"Feb 13, 2024",Partner,No CRM,KZ (Kazakhstan),0.0,,0-500,Closed Lost,Partner doesn't work with client,"Mar 4, 2024"
+"Feb 13, 2024",Partner,No CRM,ES (Spain),5.0,180.0,0-500,Closed Won,,"Mar 20, 2024"
+"Feb 13, 2024",Partner,No CRM,UA (Ukraine),10.0,,0-500,Project set up,,
+"Feb 13, 2024",Demo Request,Other,UA (Ukraine),3.0,,0-500,Closed Lost,Solving budget issues,"Feb 26, 2024"
+"Feb 13, 2024",Inbound call,No CRM,PL (Poland),2.0,,0-500,Closed Lost,Integrations,"Feb 23, 2024"
+"Feb 13, 2024",From Ice,No CRM,UA (Ukraine),60.0,,0-500,Closed Lost,Implementing CRM,"Mar 14, 2024"
+"Feb 13, 2024",Partner,KeyCRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Mar 28, 2024"
+"Feb 13, 2024",Intercom,KeepinCRM,UA (Ukraine),3.0,,0-500,Closed Lost,Solving budget issues,"Mar 14, 2024"
+"Feb 13, 2024",Registration,ZohoCRM,IN (India),3.0,,0-500,Closed Lost,"Telecom (numbers, voice traffic)","Feb 26, 2024"
+"Feb 13, 2024",Intercom,AmoCRM,UA (Ukraine),2.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 16, 2024"
+"Feb 13, 2024",Facebook PPC,Hubspot,PL (Poland),3.0,,0-500,Project set up,,
+"Feb 12, 2024",Intercom,Other,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Mar 12, 2024"
+"Feb 12, 2024",Facebook PPC,No CRM,UA (Ukraine),18.0,,0-500,Closed Lost,Solving budget issues,"Mar 1, 2024"
+"Feb 13, 2024",Partner,No CRM,UA (Ukraine),2.0,90.0,2000-5000,Closed Won,,"Feb 15, 2024"
+"Feb 12, 2024",Registration,Bitrix24,KZ (Kazakhstan),10.0,,1000-2000,Closed Lost,Stopped communicating,"Mar 21, 2024"
+"Feb 12, 2024",Ringostat Messenger,1C as CRM,UA (Ukraine),40.0,,0-500,Negotiations,,
+"Feb 9, 2024",Inbound call,No CRM,PL (Poland),3.0,360.0,0-500,Closed Won,,"Mar 27, 2024"
+"Feb 9, 2024",Partner,ZohoCRM,UA (Ukraine),2.0,,500-1000,Closed Lost,Implementing CRM,"Mar 3, 2024"
+"Feb 9, 2024",Registration,Bitrix24,PL (Poland),3.0,,0-500,Closed Lost,Solving budget issues,"Feb 16, 2024"
+"Feb 9, 2024",Registration,No CRM,PL (Poland),10.0,,0-500,Payment,,
+"Feb 9, 2024",Inbound call,No CRM,UA (Ukraine),8.0,,0-500,Closed Lost,Stopped communicating,"Mar 5, 2024"
+"Feb 9, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Apr 3, 2024"
+"Feb 9, 2024",Registration,KeyCRM,EE (Estonia),3.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 1, 2024"
+"Feb 9, 2024",Intercom,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,Client decided that it was not profitable,"Mar 1, 2024"
+"Feb 9, 2024",Registration,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 21, 2024"
+"Feb 9, 2024",Inbound call,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Client decided that it was not profitable,"Apr 2, 2024"
+"Feb 9, 2024",Facebook PPC,Custom CRM,UA (Ukraine),6.0,,0-500,Closed Lost,Solving budget issues,"Feb 26, 2024"
+"Feb 9, 2024",Facebook PPC,Onebox,UA (Ukraine),3.0,,0-500,Closed Lost,Cranky client,"Feb 9, 2024"
+"Feb 8, 2024",Registration,No CRM,PL (Poland),1.0,,0-500,Closed Lost,Doing the website,"Mar 12, 2024"
+"Feb 8, 2024",Partner,No CRM,KZ (Kazakhstan),1.0,90.0,0-500,Closed Won,,"Feb 9, 2024"
+"Feb 8, 2024",Existing client,No CRM,UA (Ukraine),1.0,180.0,0-500,Closed Won,,"Mar 20, 2024"
+"Feb 8, 2024",Inbound call,No CRM,UA (Ukraine),35.0,,0-500,Closed Lost,Implementing CRM,"Mar 15, 2024"
+"Feb 8, 2024",Partner,Bitrix24,KZ (Kazakhstan),4.0,360.0,1000-2000,Closed Won,,"Mar 11, 2024"
+"Feb 8, 2024",Registration,Custom CRM,PL (Poland),15.0,,0-500,Trial,,
+"Feb 8, 2024",Partner,KeyCRM,UA (Ukraine),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 19, 2024"
+"Feb 8, 2024",Demo Request,Other,UA (Ukraine),3.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 12, 2024"
+"Feb 8, 2024",Partner,KeyCRM,UA (Ukraine),1.0,,0-500,Closed Lost,Implementing CRM,"Mar 11, 2024"
+"Feb 8, 2024",Demo Request,Is not using,UA (Ukraine),1.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 19, 2024"
+"Feb 8, 2024",Partner,AmoCRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Phone system,"Feb 23, 2024"
+"Feb 8, 2024",Inbound call,NetHunt CRM,UA (Ukraine),2.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 15, 2024"
+"Feb 8, 2024",Partner,No CRM,PL (Poland),1.0,90.0,500-1000,Closed Won,,"Mar 1, 2024"
+"Feb 8, 2024",Registration,Pipedrive,AE (United Arab Emirates),7.0,180.0,0-500,Closed Won,,"Feb 23, 2024"
+"Feb 7, 2024",Partner,Bitrix24,UA (Ukraine),3.0,,0-500,Closed Lost,Hiring,"Mar 1, 2024"
+"Feb 7, 2024",Intercom,Hubspot,PL (Poland),40.0,,0-500,Negotiations,,
+"Feb 7, 2024",Inbound call,Hubspot,PL (Poland),10.0,,0-500,Negotiations,,
+"Feb 7, 2024",Registration,No CRM,PL (Poland),3.0,,0-500,Closed Lost,High price without explanation,"Feb 28, 2024"
+"Feb 7, 2024",Partner,KeyCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Mar 18, 2024"
+"Feb 12, 2024",Registration,Hubspot,PL (Poland),1.0,,0-500,Trial,,"Feb 20, 2024"
+"Feb 7, 2024",Inbound call,No CRM,PL (Poland),4.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 13, 2024"
+"Feb 7, 2024",Intercom,No CRM,KZ (Kazakhstan),2.0,,0-500,Closed Lost,Illegal industry,"Feb 9, 2024"
+"Feb 6, 2024",Existing client,No CRM,US (United States of America),1.0,90.0,0-500,Closed Won,,"Feb 27, 2024"
+"Feb 7, 2024",Registration,Other,UA (Ukraine),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 7, 2024"
+"Feb 7, 2024",Partner,Bitrix24,PL (Poland),3.0,,1000-2000,Closed Lost,Solving budget issues,"Feb 14, 2024"
+"Mar 20, 2024",Partner,No CRM,PL (Poland),3.0,,500-1000,Trial,,"Feb 29, 2024"
+"Feb 7, 2024",Inbound call,1C as CRM,UA (Ukraine),11.0,,0-500,Closed Lost,Stopped communicating,"Mar 14, 2024"
+"Feb 7, 2024",Inbound call,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,"Telecom (numbers, voice traffic)","Mar 11, 2024"
+"Feb 6, 2024",Registration,No CRM,PL (Poland),4.0,,0-500,Closed Lost,Stopped communicating,"Mar 15, 2024"
+"Feb 6, 2024",Partner,Pipedrive,UK (United Kingdom of Great Britain and Northern Ireland),2.0,,2000-5000,Closed Lost,Competitor has better product with better price,"Feb 22, 2024"
+"Feb 6, 2024",Partner,Custom CRM,UA (Ukraine),4.0,90.0,0-500,Closed Won,,"Mar 29, 2024"
+"Feb 6, 2024",Ringostat Messenger,No CRM,PL (Poland),10.0,,0-500,Payment,,
+"Feb 6, 2024",Inbound call,Other,UA (Ukraine),1.0,,0-500,Closed Lost,Competitor has better product with better price,"Feb 12, 2024"
+"Feb 6, 2024",Registration,No CRM,PL (Poland),2.0,,0-500,Project set up,,
+"Feb 6, 2024",Existing client,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Feb 6, 2024",Intercom,No CRM,CZ (Czech Republic),4.0,,0-500,Closed Lost,Competitor has better product with better price,"Feb 19, 2024"
+"Feb 6, 2024",Ringostat Messenger,Salesdrive,UA (Ukraine),5.0,,0-500,Trial,,
+"Feb 6, 2024",Demo Request,Bitrix24,KZ (Kazakhstan),7.0,,0-500,Closed Lost,Stopped communicating,"Feb 26, 2024"
+"Feb 6, 2024",Existing client,Pipedrive,UA (Ukraine),1.0,360.0,500-1000,Closed Won,,"Feb 26, 2024"
+"Feb 6, 2024",Inbound call,AmoCRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Competitor has better product with better price,"Feb 12, 2024"
+"Feb 6, 2024",Intercom,Bitrix24,KZ (Kazakhstan),8.0,,0-500,Closed Lost,Competitor gave better offer,"Mar 12, 2024"
+"Feb 6, 2024",Registration,No CRM,UA (Ukraine),2.0,180.0,0-500,Closed Won,,"Feb 13, 2024"
+"Feb 6, 2024",Inbound call,KeyCRM,UA (Ukraine),5.0,,0-500,Closed Lost,Solving budget issues,"Mar 12, 2024"
+"Feb 6, 2024",Partner,Cliniccards,UA (Ukraine),2.0,,0-500,Closed Lost,Ads not run,"Apr 3, 2024"
+"Feb 12, 2024",Facebook PPC,No CRM,PL (Poland),4.0,,0-500,Closed Lost,Implementing CRM,"Mar 29, 2024"
+"Feb 5, 2024",Registration,No CRM,AZ (Azerbaijan),1.0,,0-500,Closed Lost,Cranky client,"Feb 8, 2024"
+"Feb 5, 2024",Inbound call,Bitrix24,UA (Ukraine),15.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 12, 2024"
+"Feb 5, 2024",Inbound call,CleverBOX,UA (Ukraine),2.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 9, 2024"
+"Feb 5, 2024",Inbound call,Custom CRM,UA (Ukraine),160.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Feb 21, 2024"
+"Feb 5, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 13, 2024"
+"Feb 5, 2024",Inbound call,No CRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 27, 2024"
+"Feb 5, 2024",Registration,Hubspot,PL (Poland),3.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 20, 2024"
+"Feb 5, 2024",Demo Request,RetailCRM,KZ (Kazakhstan),16.0,,1000-2000,Closed Lost,Implementing CRM,"Feb 13, 2024"
+"Feb 5, 2024",Demo Request,Bitrix24,KZ (Kazakhstan),10.0,,500-1000,Closed Lost,Competitor gave better offer,"Feb 19, 2024"
+"Feb 5, 2024",Intercom,No CRM,US (United States of America),2.0,,0-500,Closed Lost,High price without explanation,"Feb 22, 2024"
+"Feb 5, 2024",Partner,AmoCRM,UA (Ukraine),2.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 22, 2024"
+"Feb 5, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Feb 23, 2024"
+"Feb 5, 2024",Partner,NetHunt CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 12, 2024"
+"Feb 5, 2024",Partner,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Solving budget issues,"Mar 11, 2024"
+"Feb 5, 2024",Ringostat Messenger,KeyCRM,UA (Ukraine),33.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 23, 2024"
+"Feb 2, 2024",Partner,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Solving budget issues,"Feb 20, 2024"
+"Feb 2, 2024",Inbound call,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 9, 2024"
+"Feb 2, 2024",Partner,G-PLUS,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Feb 2, 2024",Intercom,Planfix,UA (Ukraine),20.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 16, 2024"
+"Feb 2, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Feb 19, 2024"
+"Feb 2, 2024",Inbound call,Trello,UA (Ukraine),1.0,,0-500,Closed Lost,"Irrelevant client (no ads, calls)","Feb 2, 2024"
+"Feb 2, 2024",Demo Request,No CRM,KZ (Kazakhstan),2.0,,0-500,Closed Lost,Stopped communicating,"Mar 4, 2024"
+"Feb 2, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 22, 2024"
+"Feb 2, 2024",Demo Request,No CRM,UA (Ukraine),3.0,,1000-2000,Closed Lost,Stopped communicating,"Feb 21, 2024"
+"Feb 2, 2024",Facebook PPC,Other,PL (Poland),5.0,,0-500,Project set up,,
+"Feb 2, 2024",Intercom,No CRM,IT (Italy),5.0,,1000-2000,Closed Lost,No responsible of the project at the moment,"Feb 2, 2024"
+"Feb 1, 2024",Inbound call,AmoCRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Feb 1, 2024",Intercom,NetHunt CRM,IT (Italy),1.0,,0-500,Closed Lost,Ringostat Smart Phone,"Feb 12, 2024"
+"Feb 2, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,Stopped communicating,"Feb 22, 2024"
+"Feb 1, 2024",Intercom,KeepinCRM,UA (Ukraine),1.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Feb 1, 2024"
+"Feb 1, 2024",Intercom,No CRM,US (United States of America),5.0,,1000-2000,Negotiations,,
+"Feb 1, 2024",Intercom,No CRM,US (United States of America),2.0,,1000-2000,Trial,,
+"Feb 1, 2024",Facebook PPC,No CRM,UA (Ukraine),5.0,,0-500,Closed Lost,Failed to produce value even though it was possible,"Feb 28, 2024"
+"Feb 2, 2024",Existing client,No CRM,KZ (Kazakhstan),1.0,360.0,2000-5000,Closed Won,,"Feb 29, 2024"
+"Feb 1, 2024",Registration,Bitrix24,KZ (Kazakhstan),2.0,,0-500,Closed Lost,High price without explanation,"Feb 23, 2024"
+"Feb 1, 2024",Intercom,altegio,ES (Spain),2.0,,0-500,Closed Lost,Stopped communicating,"Feb 16, 2024"
+"Feb 2, 2024",Intercom,Mindsales,KZ (Kazakhstan),6.0,,0-500,Closed Lost,Other,"Feb 6, 2024"
+"Feb 1, 2024",Partner,Terrasoft (bpm online),UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Feb 14, 2024"
+"Feb 2, 2024",Inbound call,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Doing the website,"Mar 11, 2024"
+"Feb 1, 2024",Partner,Creatio,UA (Ukraine),5.0,,0-500,Closed Lost,Solving budget issues,"Mar 6, 2024"
+"Jan 31, 2024",Partner,RealtSoft,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 31, 2024"
+"Jan 31, 2024",Facebook PPC,No CRM,UA (Ukraine),3.0,90.0,500-1000,Closed Won,,"Mar 26, 2024"
+"Jan 31, 2024",Inbound call,No CRM,PL (Poland),5.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 5, 2024"
+"Jan 31, 2024",Demo Request,No CRM,UA (Ukraine),5.0,,1000-2000,Closed Lost,"Contact person isn't desicion maker, just collects information","Feb 20, 2024"
+"Jan 31, 2024",Cold calling,No CRM,UA (Ukraine),15.0,,0-500,Closed Lost,Phone system,"Feb 16, 2024"
+"Jan 31, 2024",Partner,imed,UA (Ukraine),2.0,90.0,500-1000,Closed Won,,"Feb 22, 2024"
+"Jan 31, 2024",Partner,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,High price and customer refused to implement any solution in general,"Feb 5, 2024"
+"Jan 31, 2024",Inbound call,No CRM,UA (Ukraine),3.0,,0-500,Payment,,"Mar 7, 2024"
+"Jan 31, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 19, 2024"
+"Jan 31, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 15, 2024"
+"Jan 31, 2024",Intercom,Bitrix24,KZ (Kazakhstan),10.0,,0-500,Closed Lost,Failed to produce value even though it was possible,"Feb 28, 2024"
+"Jan 31, 2024",Facebook PPC,Bitrix24,UA (Ukraine),5.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 6, 2024"
+"Jan 31, 2024",Demo Request,KeyCRM,UA (Ukraine),2.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 6, 2024"
+"Jan 31, 2024",Partner,No CRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Jan 31, 2024",Demo Request,Custom CRM,KZ (Kazakhstan),40.0,,0-500,Closed Lost,Competitor has better product,"Feb 5, 2024"
+"Jan 30, 2024",Registration,Pipedrive,PL (Poland),3.0,12-month contract,500-1000,Closed Won,,"Mar 15, 2024"
+"Jan 30, 2024",Intercom,NetHunt CRM,IL (Israel),2.0,,0-500,Closed Lost,Stopped communicating,"Feb 19, 2024"
+"Jan 30, 2024",Inbound call,No CRM,PL (Poland),4.0,,0-500,Closed Lost,High price without explanation,"Feb 28, 2024"
+"Jan 30, 2024",Inbound call,KeyCRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Feb 15, 2024"
+"Jan 30, 2024",Inbound call,No CRM,UA (Ukraine),8.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Feb 1, 2024"
+"Jan 30, 2024",Inbound call,Bitrix24,UA (Ukraine),5.0,180.0,0-500,Closed Won,,"Feb 15, 2024"
+"Jan 30, 2024",Intercom,NetHunt CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Competitor has better product with better price,"Mar 6, 2024"
+"Jan 30, 2024",Inbound call,Odoo,UA (Ukraine),4.0,90.0,0-500,Closed Won,,"Mar 7, 2024"
+"Jan 30, 2024",Inbound call,KeyCRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Feb 14, 2024"
+"Jan 30, 2024",Partner,No CRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Feb 12, 2024"
+"Jan 30, 2024",Partner,KeyCRM,UA (Ukraine),2.0,,500-1000,Closed Lost,Solving budget issues,"Feb 6, 2024"
+"Jan 30, 2024",Partner,No CRM,SK (Slovakia),1.0,360.0,1000-2000,Closed Won,,"Mar 11, 2024"
+"Jan 30, 2024",Inbound call,No CRM,UA (Ukraine),6.0,360.0,0-500,Closed Won,,"Feb 7, 2024"
+"Jan 30, 2024",Inbound call,Other,UA (Ukraine),2.0,,500-1000,Closed Lost,Failed to produce value even though it was possible,"Feb 13, 2024"
+"Jan 30, 2024",Partner,No CRM,KZ (Kazakhstan),3.0,,500-1000,Closed Lost,Implementing CRM,"Feb 19, 2024"
+"Jan 30, 2024",Partner,AmoCRM,KZ (Kazakhstan),1.0,90.0,0-500,Closed Won,,"Mar 15, 2024"
+"Jan 30, 2024",Inbound call,No CRM,UA (Ukraine),10.0,,0-500,Closed Lost,Phone system,"Mar 14, 2024"
+"Jan 29, 2024",Inbound call,KeyCRM,UA (Ukraine),4.0,,500-1000,Closed Lost,No responsible of the project at the moment,"Feb 19, 2024"
+"Jan 29, 2024",Facebook PPC,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Phone system,"Feb 1, 2024"
+"Jan 29, 2024",Existing client,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 29, 2024"
+"Jan 29, 2024",Intercom,KeyCRM,UA (Ukraine),3.0,360.0,0-500,Closed Won,,"Feb 21, 2024"
+"Jan 29, 2024",Demo Request,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Ads not run,"Jan 29, 2024"
+"Jan 29, 2024",Intercom,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Stopped communicating,"Feb 16, 2024"
+"Jan 29, 2024",Registration,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Stopped communicating,"Feb 19, 2024"
+"Jan 29, 2024",Demo Request,AmoCRM,UA (Ukraine),3.0,,1000-2000,Closed Lost,Client decided that it was not profitable,"Feb 14, 2024"
+"Jan 29, 2024",Partner,KeyCRM,UA (Ukraine),3.0,360.0,0-500,Closed Won,,"Feb 23, 2024"
+"Jan 30, 2024",Facebook PPC,Custom CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Stopped communicating,"Mar 27, 2024"
+"Jan 29, 2024",Inbound call,NetHunt CRM,KZ (Kazakhstan),3.0,90.0,0-500,Closed Won,,"Feb 15, 2024"
+"Jan 29, 2024",Ringostat Messenger,AmoCRM,UA (Ukraine),1.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Feb 16, 2024"
+"Jan 29, 2024",Demo Request,KeepinCRM,UA (Ukraine),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 5, 2024"
+"Jan 26, 2024",Intercom,Bitrix24,UA (Ukraine),3.0,,0-500,Closed Lost,Stopped communicating,"Feb 15, 2024"
+"Jan 26, 2024",Inbound call,No CRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Mar 7, 2024"
+"Jan 26, 2024",Inbound call,KeyCRM,UA (Ukraine),4.0,90.0,0-500,Closed Won,,"Feb 7, 2024"
+"Jan 29, 2024",Ringostat Messenger,No CRM,GE (Georgia),3.0,90.0,0-500,Closed Won,,"Feb 19, 2024"
+"Jan 26, 2024",Facebook PPC,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Failed to produce value even though it was possible,"Feb 5, 2024"
+"Jan 26, 2024",Registration,1C as CRM,UA (Ukraine),4.0,90.0,2000-5000,Closed Won,,"Mar 11, 2024"
+"Jan 26, 2024",Partner,Salesdrive,UA (Ukraine),2.0,,500-1000,Closed Lost,Partner failed to convey value/ no client's contacts,"Mar 14, 2024"
+"Jan 26, 2024",Partner,AmoCRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Jan 26, 2024",Demo Request,altegio,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Feb 13, 2024"
+"Jan 25, 2024",Inbound call,No CRM,PL (Poland),6.0,360.0,0-500,Closed Won,,"Feb 5, 2024"
+"Jan 26, 2024",Partner,Bitrix24,TJ (Tajikistan),60.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Feb 28, 2024"
+"Jan 26, 2024",Partner,Bitrix24,PL (Poland),15.0,12-month contract,0-500,Closed Won,,"Mar 12, 2024"
+"Jan 25, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Trial,,
+"Jan 26, 2024",Inbound call,Bitrix24,KZ (Kazakhstan),5.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 16, 2024"
+"Jan 25, 2024",Inbound call,KeepinCRM,UA (Ukraine),2.0,90.0,1000-2000,Closed Won,,"Feb 5, 2024"
+"Jan 26, 2024",Existing client,Bitrix24,KZ (Kazakhstan),3.0,90.0,1000-2000,Closed Won,,"Jan 26, 2024"
+"Jan 25, 2024",Inbound call,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Feb 23, 2024"
+"Jan 26, 2024",Demo Request,AmoCRM,KZ (Kazakhstan),45.0,,0-500,Closed Lost,Solving budget issues,"Jan 31, 2024"
+"Jan 25, 2024",Partner,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Client decided that it was not profitable,"Jan 25, 2024"
+"Jan 25, 2024",Partner,AmoCRM,TR (Turkey),10.0,,1000-2000,Closed Lost,Business closed / repurposed,"Mar 13, 2024"
+"Jan 25, 2024",Demo Request,No CRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 29, 2024"
+"Jan 25, 2024",Demo Request,No CRM,BG (Bulgaria),10.0,,0-500,Closed Lost,"Telecom (numbers, voice traffic)","Jan 25, 2024"
+"Jan 25, 2024",Partner,KeyCRM,UA (Ukraine),2.0,,1000-2000,Closed Lost,High price without explanation,"Feb 6, 2024"
+"Jan 25, 2024",Inbound call,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 1, 2024"
+"Jan 25, 2024",Partner,Other,UA (Ukraine),6.0,90.0,2000-5000,Closed Won,,"Feb 27, 2024"
+"Jan 25, 2024",Inbound call,Other,UA (Ukraine),1.0,,0-500,Closed Lost,Solving budget issues,"Jan 25, 2024"
+"Jan 24, 2024",Inbound call,Salesdrive,UA (Ukraine),3.0,360.0,2000-5000,Closed Won,,"Feb 5, 2024"
+"Jan 24, 2024",Inbound call,Bitrix24,UA (Ukraine),15.0,,0-500,Closed Lost,Other,"Jan 30, 2024"
+"Jan 24, 2024",Inbound call,No CRM,PL (Poland),6.0,,0-500,Closed Lost,Other,"Mar 11, 2024"
+"Jan 25, 2024",Inbound call,1C as CRM,UA (Ukraine),25.0,90.0,0-500,Closed Won,Hiring,"Mar 1, 2024"
+"Jan 25, 2024",Facebook PPC,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 20, 2024"
+"Jan 24, 2024",Demo Request,No CRM,KZ (Kazakhstan),3.0,,500-1000,Closed Lost,High price and customer refused to implement any solution in general,"Feb 2, 2024"
+"Jan 24, 2024",Partner,KeyCRM,UA (Ukraine),3.0,,0-500,Closed Lost,Competitor has better product,"Feb 14, 2024"
+"Jan 24, 2024",Facebook PPC,Pipedrive,PL (Poland),2.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Feb 12, 2024"
+"Jan 24, 2024",Inbound call,No CRM,PL (Poland),1.0,,0-500,Closed Lost,High price without explanation,"Feb 8, 2024"
+"Jan 24, 2024",Demo Request,Pipedrive,PL (Poland),10.0,,0-500,Project set up,,
+"Jan 25, 2024",Partner,No CRM,US (United States of America),14.0,90.0,500-1000,Closed Won,,"Mar 7, 2024"
+"Jan 24, 2024",Partner,KeyCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 13, 2024"
+"Jan 24, 2024",Partner,No CRM,UA (Ukraine),2.0,180.0,0-500,Closed Won,,"Jan 30, 2024"
+"Jan 23, 2024",Facebook PPC,No CRM,PL (Poland),6.0,,500-1000,Closed Lost,Stopped communicating,"Mar 1, 2024"
+"Jan 24, 2024",Registration,KeyCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 15, 2024"
+"Jan 24, 2024",Demo Request,Other,UA (Ukraine),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 14, 2024"
+"Jan 25, 2024",Intercom,Bitrix24,KZ (Kazakhstan),6.0,,0-500,Project set up,,
+"Jan 25, 2024",Inbound call,Salesdrive,UA (Ukraine),7.0,,0-500,Closed Lost,Competitor has better product with better price,"Jan 30, 2024"
+"Jan 24, 2024",Demo Request,No CRM,PL (Poland),4.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Jan 24, 2024",Demo Request,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 30, 2024"
+"Jan 24, 2024",Partner,Onebox,UA (Ukraine),7.0,,0-500,Closed Lost,Implementing CRM,"Mar 11, 2024"
+"Jan 24, 2024",Partner,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Jan 30, 2024"
+"Jan 24, 2024",Intercom,No CRM,CZ (Czech Republic),1.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Jan 24, 2024"
+"Jan 23, 2024",Facebook PPC,No CRM,PL (Poland),3.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 5, 2024"
+"Jan 24, 2024",Existing client,KeepinCRM,UA (Ukraine),2.0,180.0,0-500,Closed Won,,"Feb 7, 2024"
+"Jan 23, 2024",Partner,No CRM,UA (Ukraine),1.0,360.0,500-1000,Closed Won,,"Jan 29, 2024"
+"Jan 23, 2024",Intercom,Salesdrive,UA (Ukraine),2.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Jan 26, 2024"
+"Jan 23, 2024",Partner,Other,UA (Ukraine),5.0,90.0,0-500,Closed Won,Stopped communicating,"Feb 7, 2024"
+"Jan 23, 2024",Registration,KeyCRM,UA (Ukraine),6.0,90.0,0-500,Closed Won,,"Jan 29, 2024"
+"Jan 23, 2024",Partner,ZohoCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 25, 2024"
+"Jan 23, 2024",Registration,Pipedrive,MD (Moldova),5.0,,0-500,Closed Lost,"Telecom (numbers, voice traffic)","Feb 1, 2024"
+"Jan 23, 2024",Inbound call,KeyCRM,UA (Ukraine),3.0,,500-1000,Closed Lost,Client decided that it was not profitable,"Feb 5, 2024"
+"Jan 23, 2024",Partner,Custom CRM,UA (Ukraine),8.0,,2000-5000,Closed Lost,Competitor gave better offer,"Feb 13, 2024"
+"Jan 23, 2024",Registration,ZohoCRM,UA (Ukraine),6.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 7, 2024"
+"Jan 23, 2024",Facebook PPC,Hubspot,PL (Poland),20.0,,0-500,Negotiations,,
+"Jan 23, 2024",Intercom,No CRM,UA (Ukraine),9.0,90.0,0-500,Closed Won,,"Feb 5, 2024"
+"Jan 23, 2024",Partner,Creatio,UA (Ukraine),88.0,,0-500,Trial,,
+"Jan 23, 2024",Intercom,No CRM,UA (Ukraine),15.0,,500-1000,Closed Lost,"Contact person isn't desicion maker, just collects information","Jan 25, 2024"
+"Jan 23, 2024",Registration,Pipedrive,UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Feb 14, 2024"
+"Jan 22, 2024",Partner,AmoCRM,UA (Ukraine),5.0,360.0,0-500,Closed Won,,"Feb 14, 2024"
+"Jan 22, 2024",Existing client,Hubspot,GE (Georgia),1.0,90.0,0-500,Closed Won,,"Jan 23, 2024"
+"Jan 22, 2024",Inbound call,Other,PL (Poland),3.0,,0-500,Negotiations,,
+"Jan 22, 2024",Webinar,No CRM,PL (Poland),7.0,,0-500,Negotiations,,
+"Jan 22, 2024",Registration,AmoCRM,CY (Cyprus),5.0,,1000-2000,Project set up,,
+"Jan 22, 2024",Registration,No CRM,KZ (Kazakhstan),3.0,180.0,500-1000,Closed Won,,"Jan 29, 2024"
+"Jan 22, 2024",Registration,Bitrix24,UA (Ukraine),3.0,360.0,500-1000,Closed Won,,"Feb 8, 2024"
+"Jan 22, 2024",Inbound call,Salesdrive,UA (Ukraine),2.0,,500-1000,Closed Lost,Competitor has better product with better price,"Jan 24, 2024"
+"Jan 22, 2024",Registration,KeyCRM,UA (Ukraine),4.0,360.0,1000-2000,Closed Won,,"Feb 2, 2024"
+"Jan 23, 2024",Intercom,AmoCRM,KZ (Kazakhstan),80.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 13, 2024"
+"Jan 22, 2024",Demo Request,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,"Telecom (numbers, voice traffic)","Feb 1, 2024"
+"Jan 22, 2024",Inbound call,No CRM,UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Feb 9, 2024"
+"Jan 22, 2024",Demo Request,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Feb 5, 2024"
+"Jan 22, 2024",Partner,1C as CRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Jan 24, 2024"
+"Jan 22, 2024",Registration,Bitrix24,KZ (Kazakhstan),4.0,,0-500,Closed Lost,Solving budget issues,"Jan 24, 2024"
+"Jan 22, 2024",Demo Request,Bitrix24,KZ (Kazakhstan),2.0,,0-500,Closed Lost,Competitor has better product with better price,"Jan 31, 2024"
+"Jan 22, 2024",Partner,Bitrix24,UA (Ukraine),5.0,180.0,0-500,Closed Won,,"Mar 6, 2024"
+"Jan 22, 2024",Intercom,AmoCRM,GE (Georgia),15.0,,500-1000,Closed Lost,Client decided that it was not profitable,"Feb 8, 2024"
+"Jan 22, 2024",Partner,Bitrix24,KZ (Kazakhstan),3.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Mar 6, 2024"
+"Jan 22, 2024",Ringostat Messenger,Salesforce,US (United States of America),1.0,360.0,0-500,Closed Won,,"Jan 26, 2024"
+"Jan 22, 2024",Facebook PPC,Other,UA (Ukraine),4.0,,0-500,Closed Lost,Integrations,"Jan 23, 2024"
+"Jan 22, 2024",Partner,No CRM,US (United States of America),1.0,90.0,0-500,Closed Won,,"Feb 22, 2024"
+"Jan 19, 2024",Inbound call,AmoCRM,UA (Ukraine),6.0,,500-1000,Closed Lost,Doing the website,"Feb 14, 2024"
+"Jan 19, 2024",Demo Request,No CRM,UA (Ukraine),6.0,,0-500,Closed Lost,Solving budget issues,"Mar 12, 2024"
+"Jan 19, 2024",Registration,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 25, 2024"
+"Jan 19, 2024",Inbound call,KeepinCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Jan 19, 2024",Intercom,Bitrix24,UA (Ukraine),4.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 23, 2024"
+"Jan 19, 2024",Demo Request,KeyCRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Jan 23, 2024"
+"Mar 29, 2024",Facebook PPC,No CRM,PL (Poland),7.0,,0-500,Negotiations,,
+"Jan 19, 2024",Registration,No CRM,PL (Poland),3.0,,0-500,Closed Lost,Legal/accounting issues,"Feb 20, 2024"
+"Jan 19, 2024",Registration,No CRM,PL (Poland),3.0,,0-500,Payment,,
+"Jan 19, 2024",Intercom,Other,AE (United Arab Emirates),5.0,,0-500,Closed Lost,Client decided that it was not profitable,"Jan 22, 2024"
+"Jan 19, 2024",Inbound call,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 26, 2024"
+"Jan 19, 2024",Partner,Other,UA (Ukraine),3.0,,0-500,Closed Lost,Solving budget issues,"Jan 19, 2024"
+"Jan 19, 2024",Partner,Pipedrive,UA (Ukraine),2.0,90.0,0-500,Closed Won,No responsible of the project at the moment,"Feb 28, 2024"
+"Jan 19, 2024",Facebook PPC,KeyCRM,UA (Ukraine),3.0,90.0,500-1000,Closed Won,,"Mar 14, 2024"
+"Jan 19, 2024",Inbound call,Bitrix24,KZ (Kazakhstan),4.0,,0-500,Closed Lost,Competitor has better product with better price,"Jan 29, 2024"
+"Jan 18, 2024",Reference,Bitrix24,UA (Ukraine),1.0,360.0,0-500,Closed Won,,"Jan 24, 2024"
+"Jan 18, 2024",Facebook PPC,Bitrix24,PL (Poland),2.0,,0-500,Closed Lost,Stopped communicating,"Jan 31, 2024"
+"Jan 18, 2024",Inbound call,ZohoCRM,UA (Ukraine),5.0,180.0,0-500,Closed Won,,"Feb 2, 2024"
+"Jan 18, 2024",Inbound call,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Solving budget issues,"Feb 7, 2024"
+"Jan 18, 2024",Demo Request,AmoCRM,KZ (Kazakhstan),2.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 29, 2024"
+"Jan 18, 2024",Inbound call,No CRM,UA (Ukraine),4.0,90.0,0-500,Closed Won,,"Jan 25, 2024"
+"Jan 18, 2024",Intercom,No CRM,UA (Ukraine),15.0,90.0,0-500,Closed Won,,"Feb 27, 2024"
+"Jan 18, 2024",Partner,No CRM,UA (Ukraine),7.0,360.0,0-500,Closed Won,,"Feb 15, 2024"
+"Jan 18, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Jan 19, 2024"
+"Feb 5, 2024",Inbound call,No CRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Feb 22, 2024"
+"Jan 18, 2024",Registration,Pipedrive,UA (Ukraine),2.0,,0-500,Closed Lost,Stopped communicating,"Jan 25, 2024"
+"Jan 18, 2024",Demo Request,AmoCRM,KZ (Kazakhstan),3.0,,0-500,Project set up,,
+"Jan 18, 2024",Registration,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Ads not run,"Jan 18, 2024"
+"Jan 18, 2024",Partner,G-PLUS,UA (Ukraine),2.0,360.0,0-500,Closed Won,,"Feb 5, 2024"
+"Jan 17, 2024",Reference,Hubspot,PL (Poland),4.0,,0-500,Closed Lost,Hiring,"Feb 20, 2024"
+"Jan 17, 2024",Facebook PPC,No CRM,PL (Poland),10.0,,0-500,Negotiations,,
+"Jan 17, 2024",Demo Request,Other,PL (Poland),5.0,,0-500,Closed Lost,Ringostat Smart Phone,"Feb 20, 2024"
+"Jan 17, 2024",Inbound call,KeyCRM,UA (Ukraine),2.0,,0-500,Closed Lost,Solving budget issues,"Jan 25, 2024"
+"Jan 17, 2024",Social networks,Hubspot,UA (Ukraine),10.0,,500-1000,Closed Lost,Integrations,"Jan 23, 2024"
+"Jan 17, 2024",Inbound call,Onebox,UA (Ukraine),5.0,360.0,0-500,Closed Won,,"Feb 7, 2024"
+"Jan 17, 2024",Partner,KeyCRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Jan 17, 2024",Partner,Bitrix24,KZ (Kazakhstan),1.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 16, 2024"
+"Jan 16, 2024",Registration,No CRM,PL (Poland),3.0,,500-1000,Closed Lost,Ads not run,"Mar 8, 2024"
+"Jan 16, 2024",Inbound call,No CRM,PL (Poland),1.0,,0-500,Closed Lost,No responsible of the project at the moment,"Apr 3, 2024"
+"Jan 16, 2024",Inbound call,Firmao,PL (Poland),4.0,,0-500,Closed Lost,Did not provide official documents on request,"Jan 22, 2024"
+"Jan 16, 2024",Inbound call,Firmao,PL (Poland),2.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 23, 2024"
+"Jan 16, 2024",Inbound call,Bitrix24,UA (Ukraine),6.0,360.0,0-500,Closed Won,,"Feb 2, 2024"
+"Jan 16, 2024",Partner,Bitrix24,KZ (Kazakhstan),1.0,360.0,0-500,Closed Won,,"Jan 25, 2024"
+"Jan 16, 2024",Registration,Custom CRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,Doing the website,"Feb 1, 2024"
+"Jan 16, 2024",Demo Request,Custom CRM,UA (Ukraine),40.0,,500-1000,Closed Lost,Competitor has better product with better price,"Jan 26, 2024"
+"Jan 15, 2024",Inbound call,No CRM,PL (Poland),2.0,,0-500,Closed Lost,Other,"Mar 1, 2024"
+"Jan 16, 2024",Partner,Other,UA (Ukraine),20.0,,0-500,Project set up,,
+"Jan 16, 2024",Inbound call,AmoCRM,UA (Ukraine),2.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Jan 22, 2024"
+"Jan 16, 2024",Inbound call,AmoCRM,KZ (Kazakhstan),4.0,,0-500,Closed Lost,Competitor has better product with better price,"Jan 26, 2024"
+"Jan 17, 2024",Registration,Bitrix24,UA (Ukraine),6.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Jan 23, 2024"
+"Jan 17, 2024",Partner,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 2, 2024"
+"Jan 17, 2024",Inbound call,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Legal/accounting issues,"Jan 30, 2024"
+"Jan 16, 2024",Inbound call,KeyCRM,UA (Ukraine),2.0,360.0,0-500,Closed Won,,"Feb 1, 2024"
+"Jan 16, 2024",Inbound call,Other,UA (Ukraine),3.0,90.0,500-1000,Closed Won,,"Feb 23, 2024"
+"Jan 16, 2024",Webinar,Firmao,PL (Poland),7.0,,0-500,Closed Lost,Phone system,"Jan 29, 2024"
+"Jan 15, 2024",Partner,KeepinCRM,UA (Ukraine),1.0,,1000-2000,Closed Lost,Client decided that it was not profitable,"Jan 18, 2024"
+"Jan 15, 2024",Partner,Creatio,UA (Ukraine),1.0,,0-500,Closed Lost,Implementing CRM,"Jan 25, 2024"
+"Jan 17, 2024",Inbound call,No CRM,UA (Ukraine),4.0,,0-500,Closed Lost,Client decided that it was not profitable,"Jan 18, 2024"
+"Jan 16, 2024",Registration,Other,UA (Ukraine),3.0,,0-500,Closed Lost,Stopped communicating,"Jan 30, 2024"
+"Jan 16, 2024",Registration,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Stopped communicating,"Jan 25, 2024"
+"Jan 16, 2024",Intercom,No CRM,US (United States of America),3.0,,0-500,Closed Lost,Competitor has better product,"Jan 24, 2024"
+"Jan 15, 2024",Intercom,Other,PL (Poland),4.0,,0-500,Negotiations,,
+"Jan 16, 2024",Intercom,KeepinCRM,UA (Ukraine),2.0,,0-500,Closed Lost,Solving budget issues,"Jan 24, 2024"
+"Jan 16, 2024",Ringostat Messenger,1C as CRM,UA (Ukraine),10.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Jan 24, 2024"
+"Jan 16, 2024",Intercom,AmoCRM,TR (Turkey),8.0,90.0,0-500,Closed Won,,"Feb 6, 2024"
+"Jan 16, 2024",Facebook PPC,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,Implementing CRM,"Jan 18, 2024"
+"Mar 28, 2024",Registration,KeyCRM,UA (Ukraine),2.0,,0-500,Project set up,,"Feb 5, 2024"
+"Jan 15, 2024",Social networks,No CRM,UA (Ukraine),3.0,,0-500,Closed Lost,No responsible of the project at the moment,"Feb 1, 2024"
+"Jan 15, 2024",Partner,Bitrix24,KZ (Kazakhstan),10.0,,1000-2000,Closed Lost,Stopped communicating,"Feb 2, 2024"
+"Jan 15, 2024",Existing client,Hubspot,GE (Georgia),2.0,90.0,0-500,Closed Won,,"Jan 15, 2024"
+"Jan 15, 2024",Partner,KeyCRM,UA (Ukraine),2.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 25, 2024"
+"Jan 12, 2024",Demo Request,AmoCRM,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Hiring,"Jan 26, 2024"
+"Jan 12, 2024",Intercom,ZohoCRM,PT (Portugal),40.0,,0-500,Closed Lost,Competitor has better product with better price,"Jan 30, 2024"
+"Jan 12, 2024",Existing client,KeyCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 15, 2024"
+"Jan 12, 2024",Existing client,KeyCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 15, 2024"
+"Jan 12, 2024",Inbound call,Bitrix24,UA (Ukraine),5.0,,0-500,Closed Lost,Competitor gave better offer,"Feb 12, 2024"
+"Jan 12, 2024",Partner,No CRM,KZ (Kazakhstan),3.0,90.0,0-500,Closed Won,,"Jan 31, 2024"
+"Jan 12, 2024",Registration,No CRM,PL (Poland),4.0,,0-500,Closed Lost,Hiring,"Jan 16, 2024"
+"Jan 15, 2024",Demo Request,AmoCRM,RS (Serbia),3.0,,0-500,Closed Lost,High price without explanation,"Jan 24, 2024"
+"Jan 15, 2024",Registration,Hubspot,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Hiring,"Feb 20, 2024"
+"Jan 12, 2024",Inbound call,altegio,PL (Poland),2.0,180.0,0-500,Closed Won,,"Jan 25, 2024"
+"Jan 12, 2024",Intercom,AmoCRM,KZ (Kazakhstan),4.0,,0-500,Closed Lost,Stopped communicating,"Feb 6, 2024"
+"Jan 12, 2024",Partner,No CRM,UA (Ukraine),4.0,360.0,0-500,Closed Won,,"Jan 31, 2024"
+"Jan 12, 2024",Intercom,No CRM,KZ (Kazakhstan),4.0,,0-500,Closed Lost,Implementing CRM,"Feb 5, 2024"
+"Jan 12, 2024",Inbound call,KeyCRM,UA (Ukraine),3.0,,0-500,Closed Lost,Client decided that it was not profitable,"Jan 19, 2024"
+"Jan 12, 2024",Existing client,KeyCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 15, 2024"
+"Jan 12, 2024",Existing client,KeyCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 15, 2024"
+"Jan 12, 2024",Existing client,No CRM,UA (Ukraine),2.0,180.0,0-500,Closed Won,,"Feb 22, 2024"
+"Jan 11, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Ads not run,"Jan 30, 2024"
+"Jan 11, 2024",Partner,No CRM,UA (Ukraine),2.0,,2000-5000,Closed Lost,Client decided that it was not profitable,"Feb 16, 2024"
+"Jan 11, 2024",Facebook PPC,No CRM,PL (Poland),5.0,,0-500,Closed Lost,Implementing CRM,"Jan 11, 2024"
+"Jan 11, 2024",Demo Request,No CRM,PL (Poland),1.0,,0-500,Payment,,"Jan 22, 2024"
+"Jan 11, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Hiring,"Feb 6, 2024"
+"Jan 11, 2024",Inbound call,Other,UK (United Kingdom of Great Britain and Northern Ireland),2.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 5, 2024"
+"Jan 11, 2024",Partner,Bitrix24,KZ (Kazakhstan),3.0,,0-500,Closed Lost,Solving budget issues,"Mar 7, 2024"
+"Jan 11, 2024",Reference,No CRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Jan 22, 2024"
+"Jan 11, 2024",Partner,ZohoCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Mar 11, 2024"
+"Jan 11, 2024",Registration,Ident,KZ (Kazakhstan),2.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Jan 31, 2024"
+"Jan 11, 2024",Inbound call,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 12, 2024"
+"Jan 11, 2024",Demo Request,Custom CRM,KZ (Kazakhstan),15.0,,0-500,Closed Lost,No responsible of the project at the moment,"Mar 6, 2024"
+"Jan 10, 2024",Partner,AmoCRM,PL (Poland),2.0,180.0,0-500,Closed Won,,"Feb 26, 2024"
+"Jan 10, 2024",Intercom,No CRM,PL (Poland),3.0,12-month contract,0-500,Closed Won,,"Jan 29, 2024"
+"Jan 10, 2024",Facebook PPC,Bitrix24,PL (Poland),2.0,,0-500,Closed Lost,Hiring,"Jan 10, 2024"
+"Jan 11, 2024",Intercom,No CRM,UA (Ukraine),2.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Jan 23, 2024"
+"Jan 10, 2024",Existing client,ZohoCRM,UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Jan 31, 2024"
+"Jan 10, 2024",Intercom,Custom CRM,UA (Ukraine),143.0,,0-500,Closed Lost,"Contact person isn't desicion maker, just collects information","Jan 31, 2024"
+"Jan 10, 2024",Inbound call,No CRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,Client decided that it was not profitable,"Feb 21, 2024"
+"Jan 10, 2024",Demo Request,Custom CRM,UA (Ukraine),3.0,90.0,0-500,Closed Won,,"Feb 12, 2024"
+"Jan 10, 2024",Demo Request,Hubspot,UK (United Kingdom of Great Britain and Northern Ireland),2.0,,0-500,Closed Lost,Other,"Jan 10, 2024"
+"Jan 10, 2024",Webinar,Bitrix24,PL (Poland),5.0,30.0,500-1000,Closed Won,,"Mar 6, 2024"
+"Jan 10, 2024",Demo Request,Custom CRM,PL (Poland),10.0,,0-500,Closed Lost,Phone system,"Jan 10, 2024"
+"Jan 11, 2024",Partner,Bitrix24,KZ (Kazakhstan),20.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Jan 29, 2024"
+"Jan 10, 2024",Registration,Other,UA (Ukraine),4.0,,0-500,Closed Lost,Couldn't handle the objection,"Jan 19, 2024"
+"Jan 10, 2024",Partner,Bitrix24,KZ (Kazakhstan),2.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Feb 7, 2024"
+"Jan 10, 2024",Partner,No CRM,TR (Turkey),1.0,,1000-2000,Closed Lost,"Telecom (numbers, voice traffic)","Jan 23, 2024"
+"Jan 10, 2024",Partner,No CRM,US (United States of America),1.0,90.0,2000-5000,Closed Won,,"Jan 23, 2024"
+"Jan 10, 2024",Partner,No CRM,UA (Ukraine),2.0,,2000-5000,Closed Lost,Client decided that it was not profitable,"Jan 26, 2024"
+"Jan 10, 2024",Partner,AmoCRM,UA (Ukraine),5.0,,0-500,Closed Lost,Stopped communicating,"Jan 18, 2024"
+"Jan 9, 2024",Intercom,No CRM,UA (Ukraine),1.0,,500-1000,Closed Lost,Client decided that it was not profitable,"Feb 26, 2024"
+"Jan 9, 2024",Inbound call,No CRM,UA (Ukraine),9.0,,0-500,Closed Lost,High price without explanation,"Jan 23, 2024"
+"Jan 9, 2024",Inbound call,Other,UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Jan 16, 2024"
+"Jan 9, 2024",Registration,KeyCRM,UA (Ukraine),10.0,,0-500,Closed Lost,Solving budget issues,"Jan 19, 2024"
+"Jan 9, 2024",Demo Request,Other,UA (Ukraine),3.0,,0-500,Closed Lost,Hiring,"Feb 8, 2024"
+"Jan 9, 2024",Intercom,Salesdrive,UA (Ukraine),2.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 11, 2024"
+"Jan 9, 2024",Demo Request,Bitrix24,KZ (Kazakhstan),4.0,90.0,0-500,Closed Won,,"Mar 5, 2024"
+"Jan 9, 2024",Partner,KeyCRM,UA (Ukraine),1.0,,500-1000,Closed Lost,Competitor gave better offer,"Jan 10, 2024"
+"Jan 9, 2024",Demo Request,AmoCRM,KZ (Kazakhstan),4.0,90.0,0-500,Closed Won,,"Jan 18, 2024"
+"Jan 9, 2024",Inbound call,KeyCRM,UA (Ukraine),5.0,,0-500,Closed Lost,Stopped communicating,"Jan 24, 2024"
+"Jan 8, 2024",Demo Request,Other,PL (Poland),2.0,,0-500,Closed Lost,Stopped communicating,"Jan 19, 2024"
+"Jan 8, 2024",Registration,KeepinCRM,UA (Ukraine),3.0,,0-500,Closed Lost,No responsible of the project at the moment,"Jan 23, 2024"
+"Jan 8, 2024",Intercom,Other,UA (Ukraine),1.0,360.0,0-500,Closed Won,,"Jan 22, 2024"
+"Jan 8, 2024",Partner,Salesdrive,UA (Ukraine),6.0,,2000-5000,Closed Lost,Competitor has better product with better price,"Feb 29, 2024"
+"Jan 8, 2024",Registration,Firmao,PL (Poland),4.0,360.0,0-500,Closed Won,,"Jan 25, 2024"
+"Jan 8, 2024",Partner,Custom CRM,UA (Ukraine),8.0,90.0,2000-5000,Closed Won,,"Mar 31, 2024"
+"Jan 8, 2024",Partner,Bitrix24,UA (Ukraine),3.0,,0-500,Closed Lost,Client decided that it was not profitable,"Jan 17, 2024"
+"Jan 8, 2024",Partner,Custom CRM,UA (Ukraine),16.0,,1000-2000,Closed Lost,Client decided that it was not profitable,"Apr 1, 2024"
+"Jan 8, 2024",Partner,Creatio,UA (Ukraine),3.0,,0-500,Closed Lost,Implementing CRM,"Jan 25, 2024"
+"Jan 8, 2024",Partner,Salesdrive,UA (Ukraine),2.0,,2000-5000,Closed Lost,Competitor gave better offer,"Jan 18, 2024"
+"Feb 6, 2024",Partner,Custom CRM,UA (Ukraine),3.0,,0-500,Closed Lost,Client decided that it was not profitable,"Mar 5, 2024"
+"Jan 8, 2024",Partner,AmoCRM,KZ (Kazakhstan),2.0,90.0,500-1000,Closed Won,,"Jan 19, 2024"
+"Jan 8, 2024",Registration,Custom CRM,IE (Ireland),1.0,,0-500,Closed Lost,Other,"Jan 19, 2024"
+"Jan 5, 2024",Registration,Hubspot,KZ (Kazakhstan),2.0,90.0,0-500,Closed Won,,"Jan 16, 2024"
+"Jan 5, 2024",Facebook PPC,No CRM,PL (Poland),2.0,,0-500,Closed Lost,Stopped communicating,"Feb 5, 2024"
+"Jan 5, 2024",Intercom,No CRM,UA (Ukraine),4.0,360.0,500-1000,Closed Won,Stopped communicating,"Mar 14, 2024"
+"Jan 4, 2024",Inbound call,Odoo,UA (Ukraine),5.0,90.0,0-500,Closed Won,,"Feb 14, 2024"
+"Jan 4, 2024",Intercom,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Solving budget issues,"Jan 4, 2024"
+"Jan 4, 2024",Facebook PPC,No CRM,PL (Poland),3.0,,0-500,Closed Lost,High price and customer refused to implement any solution in general,"Jan 24, 2024"
+"Jan 4, 2024",Partner,Pipedrive,UA (Ukraine),4.0,180.0,0-500,Closed Won,,"Jan 19, 2024"
+"Jan 4, 2024",Partner,No CRM,UA (Ukraine),1.0,,0-500,Closed Lost,Partner failed to convey value/ no client's contacts,"Jan 8, 2024"
+"Jan 4, 2024",Facebook PPC,Other,PL (Poland),6.0,,0-500,Closed Lost,High price without explanation,"Jan 24, 2024"
+"Jan 4, 2024",Demo Request,Bitrix24,PL (Poland),3.0,,0-500,Trial,,
+"Jan 3, 2024",Facebook PPC,Microsoft Dynamics,PL (Poland),20.0,,0-500,Closed Lost,Hiring,"Jan 16, 2024"
+"Jan 3, 2024",Registration,No CRM,PL (Poland),1.0,,0-500,Closed Lost,Ringostat Smart Phone,"Jan 18, 2024"
+"Jan 3, 2024",Registration,No CRM,PL (Poland),1.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 19, 2024"
+"Jan 3, 2024",Registration,No CRM,UK (United Kingdom of Great Britain and Northern Ireland),1.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 10, 2024"
+"Jan 3, 2024",Inbound call,KeyCRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Jan 24, 2024"
+"Jan 3, 2024",Registration,No CRM,BG (Bulgaria),2.0,,500-1000,Negotiations,,
+"Jan 3, 2024",Existing client,No CRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Jan 15, 2024"
+"Jan 3, 2024",Registration,Other,CY (Cyprus),3.0,,0-500,Closed Lost,Competitor gave better offer,"Jan 10, 2024"
+"Jan 3, 2024",Partner,Bitrix24,KZ (Kazakhstan),3.0,90.0,2000-5000,Closed Won,,"Jan 30, 2024"
+"Jan 2, 2024",Partner,KeyCRM,UA (Ukraine),2.0,,0-500,Closed Lost,Implementing CRM,"Jan 29, 2024"
+"Feb 5, 2024",Partner,KeyCRM,UA (Ukraine),1.0,90.0,0-500,Closed Won,,"Feb 20, 2024"
+"Feb 23, 2024",Registration,No CRM,UA (Ukraine),3.0,90.0,500-1000,Closed Won,,"Mar 14, 2024"
+"Jan 12, 2024",Demo Request,AmoCRM,KZ (Kazakhstan),1.0,,0-500,Closed Lost,,"Jan 12, 2024"
+"Feb 5, 2024",Registration,No CRM,UA (Ukraine),2.0,90.0,0-500,Closed Won,,"Mar 5, 2024"
+"Feb 13, 2024",Intercom,CleverBOX,UA (Ukraine),3.0,90.0,500-1000,Closed Won,,"Mar 4, 2024"
+"Feb 7, 2024",Partner,NetHunt CRM,UA (Ukraine),1.0,360.0,0-500,Closed Won,,"Feb 14, 2024"
+"Jan 2, 2024",Intercom,AmoCRM,IL (Israel),1.0,90.0,0-500,Closed Won,,"Jan 4, 2024"
+"Jan 15, 2024",Demo Request,Custom CRM,PL (Poland),3.0,,0-500,Payment,,"Jul 25, 2023"
+"Jan 15, 2024",Intercom,Custom CRM,PL (Poland),8.0,,0-500,Project set up,,"Oct 27, 2022"
+"Jan 18, 2024",Demo Request,No CRM,KZ (Kazakhstan),12.0,,0-500,Closed Lost,High price without explanation,"Jan 22, 2024"
