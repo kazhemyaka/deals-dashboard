@@ -195,6 +195,121 @@ fig = px.bar(
 fig.update_layout(height=450)
 st.plotly_chart(fig, use_container_width=True)
 
+# Data quality checks
+st.subheader("🩺 Data issues")
+st.caption(
+    "Перевірка якості даних по всьому датасету (незалежно від фільтрів). "
+    "«Row» — номер рядка у deals.csv (з урахуванням заголовка)."
+)
+
+
+def data_quality_issues(data: pd.DataFrame) -> pd.DataFrame:
+    d = data.reset_index(drop=True).copy()
+    d["Row"] = d.index + 2  # +1 за заголовок, +1 щоб рахунок починався з 1
+
+    closed = d["Stage"].isin(["Closed Won", "Closed Lost"])
+    open_stage = ~closed & d["Stage"].ne("Unknown")
+
+    checks = [
+        (
+            "Closed Won/Lost, але Closing Date порожня",
+            closed & d["Closing Date"].isna(),
+        ),
+        (
+            "Відкрита угода, але вказана Closing Date",
+            open_stage & d["Closing Date"].notna(),
+        ),
+        (
+            "Closed Lost без Loss reason",
+            d["Stage"].eq("Closed Lost") & d["Loss reason description"].isna(),
+        ),
+        (
+            "Closed Won, але заповнена Loss reason",
+            d["Stage"].eq("Closed Won") & d["Loss reason description"].notna(),
+        ),
+        (
+            "Closing Date раніше за AQL date",
+            d["AQL date"].notna()
+            & d["Closing Date"].notna()
+            & (d["Closing Date"] < d["AQL date"]),
+        ),
+        ("Відсутня AQL date", d["AQL date"].isna()),
+        (
+            "Некоректна к-сть sales reps (порожня або ≤ 0)",
+            d["Number of sales reps"].isna() | (d["Number of sales reps"] <= 0),
+        ),
+        ("Невідомий / порожній Stage", d["Stage"].eq("Unknown")),
+    ]
+
+    show_cols = [
+        "Row",
+        "AQL date",
+        "Stage",
+        "Closing Date",
+        "Source",
+        "Client CRM",
+        "Client country",
+        "Number of sales reps",
+        "Loss reason description",
+    ]
+
+    parts = []
+    for name, mask_check in checks:
+        hit = d.loc[mask_check.fillna(False), show_cols].copy()
+        if not hit.empty:
+            hit.insert(0, "Issue", name)
+            parts.append(hit)
+
+    summary = pd.DataFrame(
+        {
+            "Перевірка": [name for name, m in checks],
+            "Проблемних рядків": [int(m.fillna(False).sum()) for name, m in checks],
+        }
+    )
+
+    detail = (
+        pd.concat(parts, ignore_index=True)
+        if parts
+        else pd.DataFrame(columns=["Issue"] + show_cols)
+    )
+    return summary, detail
+
+
+qc_summary, qc_detail = data_quality_issues(df)
+total_issues = int(qc_summary["Проблемних рядків"].sum())
+
+if total_issues == 0:
+    st.success("✅ Проблем з якістю даних не знайдено.")
+else:
+    st.warning(f"⚠️ Знайдено проблемних записів: **{total_issues}**")
+    col_a, col_b = st.columns([1, 2])
+    with col_a:
+        st.markdown("**Зведення**")
+        st.dataframe(
+            qc_summary.sort_values("Проблемних рядків", ascending=False),
+            use_container_width=True,
+            hide_index=True,
+        )
+    with col_b:
+        st.markdown("**Деталізація (проблемні рядки)**")
+        issue_options = qc_detail["Issue"].unique().tolist()
+        selected_issues = st.multiselect(
+            "Фільтр за типом проблеми",
+            issue_options,
+            default=issue_options,
+        )
+        st.dataframe(
+            qc_detail[qc_detail["Issue"].isin(selected_issues)],
+            use_container_width=True,
+            hide_index=True,
+        )
+        st.download_button(
+            "⬇️ Завантажити Data issues (CSV)",
+            qc_detail.to_csv(index=False).encode("utf-8-sig"),
+            file_name="data_issues.csv",
+            mime="text/csv",
+        )
+
 # Таблиця з деталями
 with st.expander("Показати відфільтровані дані (таблиця)"):
     st.dataframe(fdf, use_container_width=True)
